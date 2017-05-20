@@ -1,6 +1,6 @@
 # FHIRalertemulator
 
-<p>Note: This project is generated with <a href="https://github.com/yeoman/generator-angular">yo angular generator</a>
+<p>Note: This project was generated with <a href="https://github.com/yeoman/generator-angular">yo angular generator</a>
       version 1.0.0.</p>
 
 <p><a href="http://gatechemra.azurewebsites.net">http://gatechemra.azurewebsites.net</a></p>
@@ -13,22 +13,17 @@
 
 <p><a href="http://yeoman.io/codelab/install-generators.html">See instructions to install a Yeoman generator </a></p>
 
-<h3><a id="user-content-cloning-github-project" class="anchor" href="#cloning-github-project" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Cloning Github Project</h3>
-
-<p>Run the following command to clone this project:
-git clone <a href="https://github.com/ornelo/gatecheastboundemrav2">https://github.com/ornelo/gatecheastboundemrav2</a></p>
-
 <h3><a id="user-content-build--development-process" class="anchor" href="#build--development-process" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Build &amp; Development Process</h3>
 
-<p>Open GaTechEastbound project using your preferred AngularJS IDE</p>
+<p>Open GaTechEastbound project using AngularJS IDE</p>
 
 <h3><a id="user-content-fetching-project-dependencies" class="anchor" href="#fetching-project-dependencies" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Fetching Project Dependencies</h3>
 
-<p>Run the following commands within your IDE: <code>npm install</code>,<code>bower install</code>, and <code>gem install compass</code></p>
+<p>Run in your IDE: <code>npm install</code>,<code>bower install</code>, and <code>gem install compass</code></p>
 
 <h3><a id="user-content-building-project" class="anchor" href="#building-project" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Building Project</h3>
 
-<p>Run the following command within your IDE: <code>grunt build</code></p>
+<p>Run in your IDE: <code>grunt build</code></p>
 
 <h3><a id="user-content-running-project" class="anchor" href="#running-project" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Running Project</h3>
 
@@ -101,5 +96,12 @@ git clone <a href="https://github.com/ornelo/gatecheastboundemrav2">https://gith
 </div>
 
   </body>
+  
+<h2>
+Oscar Ornelas: Application Architect and Co-Developer
+John Mansfield: Back-end Developer
+Anthony Passamonti: Front-end Developer
+Phil Jones: Project Manager and QA
+</h2>
 </html>
 
