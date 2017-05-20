@@ -5,7 +5,7 @@
 
 <p><a href="http://gatechemra.azurewebsites.net">http://gatechemra.azurewebsites.net</a></p>
 
-</a>Setting up your Development Environment</h2>
+</a>Setting up Development Environment</h2>
 
 <p><a href="http://yeoman.io/codelab/setup.html">See instructions to set up development environment</a></p>
 
@@ -38,9 +38,6 @@ git clone <a href="https://github.com/ornelo/gatecheastboundemrav2">https://gith
 
 <p>Running <code>grunt test</code> will run the unit tests with karma.</p>
 
-<h3><a id="user-content-git-refresher" class="anchor" href="#git-refresher" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Git Refresher</h3>
-
-<p><a href="https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf">GIT cheat sheet</a></p>
 
 <h1><a id="user-content-firebase-nosql-database" class="anchor" href="#firebase-nosql-database" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Firebase NoSql Database</h1>
 
@@ -99,44 +96,8 @@ git clone <a href="https://github.com/ornelo/gatecheastboundemrav2">https://gith
         <li><a href="https://help.github.com" data-ga-click="Footer, go to help, text:help">Help</a></li>
     </ul>
   </div>
-</div>
-
-
-
-    
-    
-
-    <div id="ajax-error-message" class="ajax-error-message flash flash-error">
-      <svg aria-hidden="true" class="octicon octicon-alert" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M15.72 12.5l-6.85-11.98C8.69 0.21 8.36 0.02 8 0.02s-0.69 0.19-0.87 0.5l-6.85 11.98c-0.18 0.31-0.18 0.69 0 1C0.47 13.81 0.8 14 1.15 14h13.7c0.36 0 0.69-0.19 0.86-0.5S15.89 12.81 15.72 12.5zM9 12H7V10h2V12zM9 9H7V5h2V9z"></path></svg>
-      <button type="button" class="flash-close js-flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
-        <svg aria-hidden="true" class="octicon octicon-x" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M7.48 8l3.75 3.75-1.48 1.48-3.75-3.75-3.75 3.75-1.48-1.48 3.75-3.75L0.77 4.25l1.48-1.48 3.75 3.75 3.75-3.75 1.48 1.48-3.75 3.75z"></path></svg>
-      </button>
-      Something went wrong with that request. Please try again.
-    </div>
-
-
+</div
       
-      <script crossorigin="anonymous" integrity="sha256-Y10ep2pJaZRKVENjXllmHxJznUueeidJ0YWiIyIHKHc=" src="https://assets-cdn.github.com/assets/frameworks-635d1ea76a4969944a5443635e59661f12739d4b9e7a2749d185a22322072877.js"></script>
-      <script async="async" crossorigin="anonymous" integrity="sha256-5huzPZdtRfhbcY1iysoLaZG9f2GA0Z75LoDl/HEdUo8=" src="https://assets-cdn.github.com/assets/github-e61bb33d976d45f85b718d62caca0b6991bd7f6180d19ef92e80e5fc711d528f.js"></script>
-      
-      
-      
-      
-      
-      
-    <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner hidden">
-      <svg aria-hidden="true" class="octicon octicon-alert" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M15.72 12.5l-6.85-11.98C8.69 0.21 8.36 0.02 8 0.02s-0.69 0.19-0.87 0.5l-6.85 11.98c-0.18 0.31-0.18 0.69 0 1C0.47 13.81 0.8 14 1.15 14h13.7c0.36 0 0.69-0.19 0.86-0.5S15.89 12.81 15.72 12.5zM9 12H7V10h2V12zM9 9H7V5h2V9z"></path></svg>
-      <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
-      <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
-    </div>
-    <div class="facebox" id="facebox" style="display:none;">
-  <div class="facebox-popup">
-    <div class="facebox-content" role="dialog" aria-labelledby="facebox-header" aria-describedby="facebox-description">
-    </div>
-    <button type="button" class="facebox-close js-facebox-close" aria-label="Close modal">
-      <svg aria-hidden="true" class="octicon octicon-x" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M7.48 8l3.75 3.75-1.48 1.48-3.75-3.75-3.75 3.75-1.48-1.48 3.75-3.75L0.77 4.25l1.48-1.48 3.75 3.75 3.75-3.75 1.48 1.48-3.75 3.75z"></path></svg>
-    </button>
-  </div>
 </div>
 
   </body>
