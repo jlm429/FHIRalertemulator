@@ -1,0 +1,239 @@
+#mainNav
+{
+  margin: 0 auto;
+  padding: 20px;
+  width: 1200px;
+  height: 700px;
+  border-style: solid;
+  border-color: #9d9d9d;
+  border-width: 1px;
+  border-radius: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  box-shadow: 0 0 10px #888888;
+}
+#topNav
+{
+  width: auto;
+  height: auto;
+}
+#menu
+{
+  float: left;
+  height: 400px;
+  width: 200px;
+}
+#textFields
+{
+  float: left;
+  height: auto;
+  width: auto;
+}
+form
+{
+  display: table;
+}
+p
+{
+  display: table-row;
+}
+label
+{
+  display: block;
+  text-align: left;
+}
+input
+{
+  display: block;
+}
+#rightNav
+{
+  height: auto;
+  width: 200px;
+  float: right;
+}
+#picture
+{
+  height: 150px;
+  width: 200px;
+  border-style: solid;
+  border-color: #000;
+  border-width: 1px;
+}
+#fhirAlert
+{
+  height: 150px;
+  width: auto;
+  border-style: solid;
+  border-color: #000;
+  border-width: 1px;
+  border-radius: 10px;
+  font-weight: normal;
+  font-size: 14px;
+  color: #9d9d9d;
+}
+#fhirPopulationAlerts
+{
+  width: auto;
+  height: auto;
+  float: left;
+  padding: 5px;
+  border-style: solid;
+  border-color: #9d9d9d;
+  border-top-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  margin: 0 auto;
+  font-size:12px;
+}
+#row1
+{
+  width: 980px;
+  height: 80px;
+  margin: 0 auto;
+}
+#populationAlert1Inactive
+{
+  height: auto;
+  width: 460px;
+  float: left;
+  padding: 10px;
+  color: #aaaaaa;
+  border-style: solid;
+  border-color: #9d9d9d;
+  border-width: 1px;
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+#populationAlert1
+{
+  height: auto;
+  width: 460px;
+  float: left;
+  padding: 10px;
+  color: #ffffff;
+  border-style: solid;
+  border-color: #9d9d9d;
+  border-width: 1px;
+  border-radius: 10px;
+  background-color: #f03b20;
+}
+#populationAlert2
+{
+  height: auto;
+  width: 460px;
+  float: right;
+  padding: 10px;
+  color: #ffffff;
+  border-style: solid;
+  border-color: #9d9d9d;
+  border-width: 1px;
+  border-radius: 10px;
+  background-color: #fd8d3c;
+}
+#populationAlert2Inactive
+{
+  height: auto;
+  width: 460px;
+  float: right;
+  padding: 10px;
+  color: #aaaaaa;
+  border-style: solid;
+  border-color: #9d9d9d;
+  border-width: 1px;
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+#row2
+{
+  width: 980px;
+  height: auto;
+  margin: 0 auto;
+}
+#populationAlert3
+{
+  height: auto;
+  width: 460px;
+  float: left;
+  padding: 10px;
+  color: #ffffff;
+  border-style: solid;
+  border-color: #9d9d9d;
+  border-width: 1px;
+  border-radius: 10px;
+  background-color: #bd0026;
+}
+#populationAlert3Inactive
+{
+  height: auto;
+  width: 460px;
+  float: left;
+  padding: 10px;
+  color: #aaaaaa;
+  border-style: solid;
+  border-color: #9d9d9d;
+  border-width: 1px;
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+#populationAlert4
+{
+  height: auto;
+  width: 460px;
+  float: right;
+  padding: 10px;
+  color: #ffffff;
+  border-style: solid;
+  border-color: #9d9d9d;
+  border-width: 1px;
+  border-radius: 10px;
+  background-color: #fecc5c;
+}
+#populationAlert4Inactive
+{
+  height: auto;
+  width: 460px;
+  float: right;
+  padding: 10px;
+  color: #aaaaaa;
+  border-style: solid;
+  border-color: #9d9d9d;
+  border-width: 1px;
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+
+
+.label-cdc {
+  background-color: #F03B20;
+}
+.label-cdc[href]:hover, .label-cdc[href]:focus {
+  background-color: #F03B20;
+}
+
+
+.label-newgenericdrug {
+  background-color: #FD8D3C;
+}
+.label-newgenericdrug[href]:hover, .label-newgenericdrug[href]:focus {
+  background-color: #FD8D3C;
+}
+
+
+.label-newvaccine {
+  background-color: #BD0026;
+}
+.label-newvaccine[href]:hover, .label-newvaccine[href]:focus {
+  background-color: #BD0026;
+}
+
+
+
+.label-fdadrugrecall{
+  background-color: #FECC5C;
+}
+.label-fdadrugrecall[href]:hover, .label-fdadrugrecall[href]:focus {
+  background-color: #FECC5C;
+}
+

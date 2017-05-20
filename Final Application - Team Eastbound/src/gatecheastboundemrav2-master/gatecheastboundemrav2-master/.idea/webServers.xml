@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="62c1b8c1-aa99-4af9-8753-eecd334dc0b3" name="Azure" url="http://ftps://waws-prod-blu-045.ftp.azurewebsites.windows.net">
+        <fileTransfer host="ftps://waws-prod-blu-045.ftp.azurewebsites.windows.net" rootFolder="/site/wwwroot" accessType="FTPS" username="gatechemra\oornelas_Ca">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

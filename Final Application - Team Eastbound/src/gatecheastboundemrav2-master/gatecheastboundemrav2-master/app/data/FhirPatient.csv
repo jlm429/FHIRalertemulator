@@ -1,0 +1,1135 @@
+Category,Level1,Level2,Level3,Level4,PatientDOB,PatientGender,PatientUrl,PatientId
+,CDC,Aetna,Primary Care LLC,George Carlin,1993-04-18,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16687,Patient-16687
+,CDC,Aetna,Primary Care LLC,Rene Franklin,2054-11-09,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21878,Patient-21878
+,CDC,Aetna,Primary Care LLC,Constance Nguyen,2059-07-28,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23419,Patient-23419
+,CDC,Aetna,Primary Care LLC,Roger Benton,2060-05-14,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23706,Patient-23706
+,CDC,Aetna,Primary Care LLC,Miguel Li,2061-12-12,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24459,Patient-24459
+,CDC,Aetna,Primary Care LLC,Neil Herring,2043-03-06,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19095,Patient-19095
+,CDC,Aetna,Primary Care LLC,Jerry Goodwall,1936-05-30,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-1121,Patient-1121
+,CDC,Aetna,Primary Care LLC,Perry Blackburn,1974-10-16,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10221,Patient-10221
+,CDC,Aetna,Primary Care LLC,Hector Scott,1975-11-14,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12880,Patient-12880
+,CDC,Aetna,Primary Care LLC,Jerry Roth,1953-05-13,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13562,Patient-13562
+,CDC,Aetna,Primary Care LLC,Nathaniel McIntyre,2011-04-21,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13336,Patient-13336
+,CDC,Aetna,Primary Care LLC,Alice Malone,2041-04-22,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18190,Patient-18190
+,CDC,Aetna,Primary Care LLC,Caroline Church,2038-01-02,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16892,Patient-16892
+,CDC,Aetna,Primary Care LLC,Brent Skinner,1997-08-19,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13676,Patient-13676
+,CDC,Aetna,Primary Care LLC,Karl Thompson,2039-02-05,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17268,Patient-17268
+,CDC,Aetna,Primary Care LLC,Carl Collier,1975-10-19,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10478,Patient-10478
+,CDC,Aetna,Primary Care LLC,Esther Curry,2052-06-26,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21207,Patient-21207
+,CDC,Aetna,Primary Care LLC,Mary Walls,2017-03-10,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24602,Patient-24602
+,CDC,Aetna,Primary Care LLC,Erica Flowers,2056-05-25,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22281,Patient-22281
+,CDC,Aetna,Primary Care LLC,Tracey Estrada,2065-12-26,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26816,Patient-26816
+,CDC,Aetna,Primary Care LLC,Dan Roman,2019-02-05,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14547,Patient-14547
+,CDC,Aetna,Primary Care LLC,Jane Colon,2055-08-07,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22054,Patient-22054
+,CDC,Aetna,Primary Care LLC,Rosa Galloway,2009-03-17,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12374,Patient-12374
+,CDC,Aetna,Primary Care LLC,Dawn Stein,2048-03-20,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20195,Patient-20195
+,CDC,Aetna,Primary Care LLC,Bryan Rollins,2058-12-02,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23164,Patient-23164
+,CDC,Aetna,Primary Care LLC,Jeffrey Welch,1979-09-01,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14921,Patient-14921
+,CDC,Aetna,Primary Care LLC,Sarah McDowell,2028-08-27,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15638,Patient-15638
+,CDC,Aetna,Primary Care LLC,Harvey Bright,2008-11-23,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13323,Patient-13323
+,CDC,Aetna,Primary Care LLC,Carlos Hoffman,1975-01-02,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11858,Patient-11858
+,CDC,Aetna,Primary Care LLC,Francis Rivera,2052-08-20,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21258,Patient-21258
+,CDC,Aetna,Primary Care LLC,Joan Chen,1987-09-06,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-1122,Patient-1122
+,CDC,Aetna,Primary Care LLC,Greg Dickson,2024-03-27,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15148,Patient-15148
+,CDC,Aetna,Primary Care LLC,Ricardo Hays,2051-10-09,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21016,Patient-21016
+,CDC,Aetna,Primary Care LLC,Jeffery Gilbert,2031-11-04,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15961,Patient-15961
+,CDC,Aetna,Primary Care LLC,Ray Dorsey,2053-07-19,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21522,Patient-21522
+,CDC,Aetna,Primary Care LLC,Kimberly Joyce,1948-01-31,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12625,Patient-12625
+,CDC,Aetna,Primary Care LLC,Armando Alexander,1996-03-27,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17740,Patient-17740
+,CDC,Aetna,Primary Care LLC,Reginald Newton,1974-03-20,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11466,Patient-11466
+,CDC,Aetna,Primary Care LLC,Brian Lynn,1988-06-14,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16472,Patient-16472
+,CDC,Aetna,Primary Care LLC,Marsha Heath,2059-08-17,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23424,Patient-23424
+,CDC,Aetna,Primary Care LLC,Tim Gutierrez,2023-04-15,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15039,Patient-15039
+,CDC,Aetna,Primary Care LLC,Vincent Kennedy,2046-08-19,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19851,Patient-19851
+,CDC,Aetna,Primary Care LLC,Kent Liu,2059-04-25,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23308,Patient-23308
+,CDC,Aetna,Primary Care LLC,Lori Wilkinson,2023-10-17,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15089,Patient-15089
+,CDC,Aetna,Primary Care LLC,Marvin Leon,2042-08-01,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18921,Patient-18921
+,CDC,Aetna,Primary Care LLC,Joy Watts,2020-01-14,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14687,Patient-14687
+,CDC,Aetna,Primary Care LLC,Carmen Bolton,1984-03-06,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15250,Patient-15250
+,CDC,Aetna,Primary Care LLC,Christian Chang,1969-03-14,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10300,Patient-10300
+,CDC,Aetna,Primary Care LLC,Hilda Lawrence,2056-09-21,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22434,Patient-22434
+,CDC,Aetna,Primary Care LLC,Jean Franco,1975-07-14,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10048,Patient-10048
+,CDC,Aetna,Primary Care LLC,Darryl Patel,1973-05-09,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11575,Patient-11575
+,CDC,Aetna,Primary Care LLC,William Chen,1984-04-17,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-1123,Patient-1123
+,CDC,Aetna,Primary Care LLC,Lois Eaton,2039-06-23,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17373,Patient-17373
+,CDC,Aetna,Primary Care LLC,Tyrone Sawyer,2065-10-12,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26737,Patient-26737
+,CDC,Aetna,Primary Care LLC,Roy Pennington,2064-12-20,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26181,Patient-26181
+,CDC,Aetna,Primary Care LLC,Danielle Rich,2060-12-05,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23971,Patient-23971
+,CDC,Aetna,Primary Care LLC,Stacey McBride,2000-01-16,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12763,Patient-12763
+,CDC,Aetna,Primary Care LLC,Ivan Bartlett,2060-08-27,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23891,Patient-23891
+,CDC,Aetna,Primary Care LLC,Ashley Scott,2036-06-30,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16571,Patient-16571
+,CDC,Aetna,Primary Care LLC,Dora Cross,2042-08-21,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18897,Patient-18897
+,CDC,Aetna,Primary Care LLC,Douglas Sanders,2008-10-30,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13216,Patient-13216
+,CDC,Aetna,Primary Care LLC,Gilbert Hughes,2064-05-04,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25866,Patient-25866
+,CDC,Aetna,Primary Care LLC,Marie Wagner,9/12/2000,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19454,Patient-19454
+,CDC,Aetna,Primary Care LLC,Jenny Kelley,10/9/2062,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24903,Patient-24903
+,CDC,Aetna,Primary Care LLC,George Carlin,4/18/1993,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16687,Patient-16687
+,CDC,Aetna,Primary Care LLC,Rene Franklin,11/9/2054,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21878,Patient-21878
+,CDC,Aetna,Primary Care LLC,Constance Nguyen,7/28/2059,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23419,Patient-23419
+,CDC,Aetna,Primary Care LLC,Roger Benton,5/14/2060,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23706,Patient-23706
+,CDC,Aetna,Primary Care LLC,Miguel Li,12/12/2061,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24459,Patient-24459
+,CDC,Aetna,Primary Care LLC,Neil Herring,3/6/2043,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19095,Patient-19095
+,CDC,Aetna,Primary Care LLC,Jerry Goodwall,5/30/1936,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-1121,Patient-1121
+,CDC,Aetna,Primary Care LLC,Perry Blackburn,10/16/1974,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10221,Patient-10221
+,CDC,Aetna,Primary Care LLC,Hector Scott,11/14/1975,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12880,Patient-12880
+,CDC,Aetna,Primary Care LLC,Jerry Roth,5/13/1953,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13562,Patient-13562
+,CDC,Aetna,Primary Care LLC,Nathaniel McIntyre,4/21/2011,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13336,Patient-13336
+,CDC,Aetna,Primary Care LLC,Alice Malone,4/22/2041,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18190,Patient-18190
+,CDC,Aetna,Primary Care LLC,Caroline Church,1/2/2038,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16892,Patient-16892
+,CDC,Aetna,Primary Care LLC,Brent Skinner,8/19/1997,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13676,Patient-13676
+,CDC,Aetna,Primary Care LLC,Karl Thompson,2/5/2039,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17268,Patient-17268
+,CDC,Aetna,Primary Care LLC,Carl Collier,10/19/1975,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10478,Patient-10478
+,CDC,Aetna,Primary Care LLC,Esther Curry,6/26/2052,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21207,Patient-21207
+,CDC,Aetna,Primary Care LLC,Mary Walls,3/10/2017,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24602,Patient-24602
+,CDC,Aetna,Primary Care LLC,Erica Flowers,5/25/2056,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22281,Patient-22281
+,CDC,Aetna,Primary Care LLC,Tracey Estrada,12/26/2065,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26816,Patient-26816
+,CDC,Aetna,Primary Care LLC,Dan Roman,2/5/2019,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14547,Patient-14547
+,CDC,Aetna,Primary Care LLC,Jane Colon,8/7/2055,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22054,Patient-22054
+,CDC,Aetna,Primary Care LLC,Rosa Galloway,3/17/2009,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12374,Patient-12374
+,CDC,Aetna,Primary Care LLC,Dawn Stein,3/20/2048,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20195,Patient-20195
+,CDC,Aetna,Primary Care LLC,Bryan Rollins,12/2/2058,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23164,Patient-23164
+,CDC,Aetna,Primary Care LLC,Jeffrey Welch,9/1/1979,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14921,Patient-14921
+,CDC,Aetna,Primary Care LLC,Sarah McDowell,8/27/2028,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15638,Patient-15638
+,CDC,Aetna,Primary Care LLC,Harvey Bright,11/23/2008,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13323,Patient-13323
+,CDC,Aetna,Primary Care LLC,Carlos Hoffman,1/2/1975,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11858,Patient-11858
+,CDC,Aetna,Primary Care LLC,Francis Rivera,8/20/2052,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21258,Patient-21258
+,CDC,Aetna,Primary Care LLC,Joan Chen,9/6/1987,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-1122,Patient-1122
+,CDC,Aetna,Primary Care LLC,Greg Dickson,3/27/2024,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15148,Patient-15148
+,CDC,Aetna,Lahey Clinic,Ricardo Hays,10/9/2051,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21016,Patient-21016
+,CDC,Aetna,Lahey Clinic,Jeffery Gilbert,11/4/2031,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15961,Patient-15961
+,CDC,Aetna,Lahey Clinic,Ray Dorsey,7/19/2053,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21522,Patient-21522
+,CDC,Aetna,Lahey Clinic,Kimberly Joyce,1/31/1948,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12625,Patient-12625
+,New Generic Drug,Kaiser Permanente,Lahey Clinic,Armando Alexander,3/27/1996,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17740,Patient-17740
+,New Generic Drug,Kaiser Permanente,Lahey Clinic,Reginald Newton,3/20/1974,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11466,Patient-11466
+,New Generic Drug,Kaiser Permanente,Lahey Clinic,Brian Lynn,6/14/1988,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16472,Patient-16472
+,New Generic Drug,Kaiser Permanente,Lahey Clinic,Marsha Heath,8/17/2059,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23424,Patient-23424
+,New Generic Drug,Kaiser Permanente,Lahey Clinic,Tim Gutierrez,4/15/2023,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15039,Patient-15039
+,New Generic Drug,Kaiser Permanente,Lahey Clinic,Vincent Kennedy,8/19/2046,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19851,Patient-19851
+,New Generic Drug,Kaiser Permanente,Lahey Clinic,Kent Liu,4/25/2059,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23308,Patient-23308
+,New Generic Drug,Kaiser Permanente,Lahey Clinic,Lori Wilkinson,10/17/2023,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15089,Patient-15089
+,New Generic Drug,Kaiser Permanente,Lahey Clinic,Marvin Leon,8/1/2042,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18921,Patient-18921
+,New Generic Drug,Kaiser Permanente,Lahey Clinic,Joy Watts,1/14/2020,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14687,Patient-14687
+,New Generic Drug,Kaiser Permanente,Lahey Clinic,Carmen Bolton,3/6/1984,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15250,Patient-15250
+,New Generic Drug,Kaiser Permanente,Lahey Clinic,Christian Chang,3/14/1969,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10300,Patient-10300
+,New Generic Drug,Kaiser Permanente,Lahey Clinic,Hilda Lawrence,9/21/2056,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22434,Patient-22434
+,New Generic Drug,Kaiser Permanente,Lahey Clinic,Jean Franco,7/14/1975,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10048,Patient-10048
+,New Generic Drug,Kaiser Permanente,Lahey Clinic,Darryl Patel,5/9/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11575,Patient-11575
+,New Generic Drug,Kaiser Permanente,Lahey Clinic,William Chen,4/17/1984,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-1123,Patient-1123
+,New Generic Drug,Kaiser Permanente,Lahey Clinic,Lois Eaton,6/23/2039,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17373,Patient-17373
+,New Generic Drug,Kaiser Permanente,Lahey Clinic,Tyrone Sawyer,10/12/2065,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26737,Patient-26737
+,New Generic Drug,Kaiser Permanente,Lahey Clinic,Roy Pennington,12/20/2064,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26181,Patient-26181
+,New Generic Drug,Kaiser Permanente,Lahey Clinic,Danielle Rich,12/5/2060,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23971,Patient-23971
+,New Generic Drug,Kaiser Permanente,Lahey Clinic,Stacey McBride,1/16/2000,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12763,Patient-12763
+,New Generic Drug,Kaiser Permanente,Lahey Clinic,Ivan Bartlett,8/27/2060,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23891,Patient-23891
+,New Generic Drug,Kaiser Permanente,Lahey Clinic,Ashley Scott,6/30/2036,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16571,Patient-16571
+,New Generic Drug,Kaiser Permanente,Lahey Clinic,Dora Cross,8/21/2042,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18897,Patient-18897
+,New Generic Drug,Kaiser Permanente,Lahey Clinic,Douglas Sanders,10/30/2008,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13216,Patient-13216
+,New Generic Drug,Kaiser Permanente,Lahey Clinic,Gilbert Hughes,5/4/2064,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25866,Patient-25866
+,New Generic Drug,United Health One,Lahey Clinic,Kim Ayers,9/25/2058,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23111,Patient-23111
+,New Generic Drug,United Health One,Lahey Clinic,Fred Hinton,1/26/1986,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12335,Patient-12335
+,New Generic Drug,United Health One,Lahey Clinic,Penny Jefferson,10/7/2045,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19659,Patient-19659
+,New Generic Drug,United Health One,Lahey Clinic,Ralph Ortiz,5/11/2052,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21176,Patient-21176
+,New Generic Drug,United Health One,MIT Medical,Jimmie Steele,6/6/2014,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22838,Patient-22838
+,New Generic Drug,United Health One,MIT Medical,Billy Chen,10/25/2011,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-1124,Patient-1124
+,New Generic Drug,United Health One,MIT Medical,Anita Rollins,8/29/2001,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13751,Patient-13751
+,New Generic Drug,United Health One,MIT Medical,Pauline English,7/18/2055,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22025,Patient-22025
+,New Generic Drug,United Health One,MIT Medical,Melvin Wilkins,8/27/2061,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24328,Patient-24328
+,New Generic Drug,United Health One,MIT Medical,Deanna Dawson,7/17/2009,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21759,Patient-21759
+,New Generic Drug,Tufts Medical Group,MIT Medical,Philip Strickland,4/22/2060,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23672,Patient-23672
+,New Generic Drug,Tufts Medical Group,MIT Medical,Betty Barton,1/28/1991,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16740,Patient-16740
+,New Generic Drug,Tufts Medical Group,MIT Medical,Alice Gardner,9/3/2016,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22635,Patient-22635
+,New Generic Drug,Tufts Medical Group,MIT Medical,Vanessa Gamble,7/18/2025,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15322,Patient-15322
+,New Generic Drug,Tufts Medical Group,MIT Medical,Leah Hopkins,11/26/2025,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15345,Patient-15345
+,New Generic Drug,Tufts Medical Group,MIT Medical,Milton Dunlap,6/11/2019,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14609,Patient-14609
+,New Generic Drug,Tufts Medical Group,MIT Medical,Jordan Nguyen,12/3/1962,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13568,Patient-13568
+,New Generic Drug,Tufts Medical Group,MIT Medical,Rodney James,9/3/1999,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18833,Patient-18833
+,New Generic Drug,Tufts Medical Group,MIT Medical,Karen McFarland,10/24/2048,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20301,Patient-20301
+,New Generic Drug,Tufts Medical Group,MIT Medical,Ian Hodges,8/30/1950,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12790,Patient-12790
+,New Generic Drug,Tufts Medical Group,MIT Medical,Irma Osborne,4/12/2015,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22984,Patient-22984
+,New Generic Drug,Blue Shield,MIT Medical,Esther Werner,9/1/1990,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16041,Patient-16041
+,New Generic Drug,Blue Shield,MIT Medical,Arlene Williams,4/27/1970,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10541,Patient-10541
+,New Generic Drug,Blue Shield,MIT Medical,Ian Valdez,5/2/2000,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18358,Patient-18358
+,New Generic Drug,Blue Shield,MIT Medical,Rhonda Nguyen,7/28/2059,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23418,Patient-23418
+,New Generic Drug,Blue Shield,MIT Medical,Bruce Pruitt,9/18/2018,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24284,Patient-24284
+,New Generic Drug,Blue Shield,MIT Medical,Tonya Holder,2/4/2015,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23685,Patient-23685
+,New Generic Drug,Blue Shield,MIT Medical,Sherry Velez,4/10/1988,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13264,Patient-13264
+,New Generic Drug,Blue Shield,MIT Medical,Barry Dickson,5/21/1952,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12360,Patient-12360
+,New Generic Drug,Blue Shield,MIT Medical,Patricia Stanton,5/24/2024,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15171,Patient-15171
+,New Generic Drug,Blue Shield,MIT Medical,Linda Austin,7/10/1996,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17669,Patient-17669
+,New Generic Drug,Blue Shield,MIT Medical,Allen Glenn,9/3/2014,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23501,Patient-23501
+,New Generic Drug,Blue Shield,MIT Medical,Dwayne Haynes,1/23/2046,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19730,Patient-19730
+,New Generic Drug,Blue Shield,MIT Medical,Johnny Harrell,8/5/2015,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23145,Patient-23145
+,New Generic Drug,Blue Shield,MIT Medical,Audrey Evans,2/14/1947,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12637,Patient-12637
+,New Generic Drug,Cigna Health,MIT Medical,Ryan Paulson,3/19/1978,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-1125,Patient-1125
+,New Generic Drug,Cigna Health,MIT Medical,Mario Andrade,3/4/1975,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11478,Patient-11478
+,New Generic Drug,Cigna Health,MIT Medical,Joe Flowers,7/20/2017,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22935,Patient-22935
+,New Generic Drug,Cigna Health,MIT Medical,Ivan Watkins,9/24/1996,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18386,Patient-18386
+,New Generic Drug,Cigna Health,MIT Medical,Miguel McCarthy,11/17/1979,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14970,Patient-14970
+,New Generic Drug,Cigna Health,MIT Medical,Freddie Melendez,10/5/1974,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10997,Patient-10997
+,New Generic Drug,Cigna Health,MIT Medical,Lorraine Lee,7/4/2038,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17062,Patient-17062
+,New Generic Drug,Cigna Health,MIT Medical,Alex Frederick,3/1/2015,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22787,Patient-22787
+,New Generic Drug,Cigna Health,MIT Medical,Adrian Orozco,8/13/1992,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18699,Patient-18699
+,New Generic Drug,Cigna Health,MIT Medical,Wallace Bean,10/12/1983,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15286,Patient-15286
+,New Generic Drug,Cigna Health,MIT Medical,Alexander Waller,1/17/2057,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22494,Patient-22494
+,New Generic Drug,Cigna Health,MIT Medical,Andrea Espinoza,12/8/1998,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17738,Patient-17738
+,New Generic Drug,Cigna Health,MIT Medical,Kathleen McIntyre,3/6/1971,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10051,Patient-10051
+,New Generic Drug,Cigna Health,MIT Medical,Donna English,6/24/2058,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22974,Patient-22974
+,New Generic Drug,Cigna Health,MIT Medical,Cody Cervantes,4/6/1992,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17334,Patient-17334
+,New Generic Drug,Cigna Health,MIT Medical,Joan Stein,6/24/2060,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23812,Patient-23812
+,New Generic Drug,Cigna Health,Primary Care Progress Inc.,Paul Nixon,9/8/2045,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19634,Patient-19634
+,New Generic Drug,Cigna Health,Primary Care Progress Inc.,Marc White,7/9/2009,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21036,Patient-21036
+,New Generic Drug,Cigna Health,Primary Care Progress Inc.,Brittany Li,12/12/2061,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24460,Patient-24460
+,New Generic Drug,Cigna Health,Primary Care Progress Inc.,Kristina Estrada,2/6/2029,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15681,Patient-15681
+,New Generic Drug,Cigna Health,Primary Care Progress Inc.,Cady Paulson,12/14/2011,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-1126,Patient-1126
+,New Generic Drug,Cigna Health,Primary Care Progress Inc.,Rosa Gill,10/14/2037,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16819,Patient-16819
+,New Generic Drug,Cigna Health,Primary Care Progress Inc.,Jason Coleman,7/16/2060,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23826,Patient-23826
+,New Generic Drug,Cigna Health,Primary Care Progress Inc.,Cody Dickson,4/28/2037,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16731,Patient-16731
+,New Generic Drug,Cigna Health,Primary Care Progress Inc.,Joann Mathews,11/1/2039,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17522,Patient-17522
+,New Generic Drug,Cigna Health,Primary Care Progress Inc.,Karen Hicks,8/23/2039,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17445,Patient-17445
+,New Generic Drug,Cigna Health,Primary Care Progress Inc.,Angela Gaines,7/15/1982,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-2170,Patient-2170
+,New Generic Drug,Cigna Health,Primary Care Progress Inc.,Gerald Massey,9/17/1997,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12917,Patient-12917
+,New Generic Drug,Cigna Health,Primary Care Progress Inc.,Martin Meyer,9/22/1997,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17837,Patient-17837
+,New Generic Drug,Cigna Health,Primary Care Progress Inc.,Darrell Orozco,9/24/1996,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19025,Patient-19025
+,New Generic Drug,Cigna Health,Primary Care Progress Inc.,Alberto Dodson,3/8/2005,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20701,Patient-20701
+,New Generic Drug,Cigna Health,Primary Care Progress Inc.,Barbara Mata,7/20/2026,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15419,Patient-15419
+,New Generic Drug,Cigna Health,Primary Care Progress Inc.,Carrie Marks,3/7/2012,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21428,Patient-21428
+,New Generic Drug,Cigna Health,Primary Care Progress Inc.,Francis Moon,7/22/2041,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18362,Patient-18362
+,New Generic Drug,Cigna Health,Primary Care Progress Inc.,Mabel King,1/23/2052,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21102,Patient-21102
+,New Generic Drug,Cigna Health,Primary Care Progress Inc.,Hazel Steele,9/28/1981,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13366,Patient-13366
+,New Generic Drug,Cigna Health,Primary Care Progress Inc.,Bradley Floyd,6/18/2017,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14301,Patient-14301
+,New Generic Drug,Cigna Health,Primary Care Progress Inc.,Jacqueline Key,11/8/2029,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15756,Patient-15756
+,New Generic Drug,Cigna Health,Primary Care Progress Inc.,Phillip McMahon,6/27/2040,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17783,Patient-17783
+,New Generic Drug,Cigna Health,Primary Care Progress Inc.,Darrell Villanueva,11/28/1997,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17716,Patient-17716
+,New Generic Drug,Cigna Health,Primary Care Progress Inc.,Sonia Sosa,7/17/2055,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22031,Patient-22031
+,New Generic Drug,Cigna Health,Facey Medical Group,Elise Paulson,1/4/2009,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-1127,Patient-1127
+,New Generic Drug,Cigna Health,Facey Medical Group,Eva Burton,1/30/1996,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16690,Patient-16690
+,New Generic Drug,Cigna Health,Facey Medical Group,Heidi Santiago,12/20/2060,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24042,Patient-24042
+,New Generic Drug,Cigna Health,Facey Medical Group,Nancy Reynolds,3/9/2028,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15586,Patient-15586
+,New Generic Drug,Cigna Health,Facey Medical Group,June Mercer,7/13/2016,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10686,Patient-10686
+,New Generic Drug,Cigna Health,Facey Medical Group,Paul Ramsey,11/16/2061,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24504,Patient-24504
+,New Generic Drug,Cigna Health,Facey Medical Group,Jessie Richardson,7/9/1993,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17819,Patient-17819
+,New Generic Drug,Cigna Health,Facey Medical Group,Patricia Wright,1/21/2017,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22830,Patient-22830
+,New Generic Drug,Cigna Health,Facey Medical Group,Naomi Burch,12/9/2000,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18469,Patient-18469
+,FDA Drug Recall,Blue Cross,Facey Medical Group,Olga Cole,5/6/2045,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19587,Patient-19587
+,FDA Drug Recall,Blue Cross,Facey Medical Group,Christine Hayden,3/2/1996,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17053,Patient-17053
+,FDA Drug Recall,Blue Cross,Facey Medical Group,Leah Curtis,12/1/2013,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13655,Patient-13655
+,FDA Drug Recall,Blue Cross,Facey Medical Group,Terrance Tanner,3/15/1972,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11768,Patient-11768
+,FDA Drug Recall,Blue Cross,Facey Medical Group,Heather Leonard,12/27/1959,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13232,Patient-13232
+,FDA Drug Recall,Blue Cross,Facey Medical Group,Natalie Cameron,12/1/1971,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11656,Patient-11656
+,FDA Drug Recall,Blue Cross,Facey Medical Group,Gerald Blanchard,1/23/1998,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18498,Patient-18498
+,FDA Drug Recall,Blue Cross,Facey Medical Group,Ryan Mercer,5/14/2062,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24694,Patient-24694
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Carol Ball,7/13/1950,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13569,Patient-13569
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Dan Moore,3/8/2056,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22235,Patient-22235
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Darryl McMahon,12/15/2048,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20324,Patient-20324
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Mildred Joyce,11/21/1999,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19103,Patient-19103
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Isaac Jones,8/4/2056,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22378,Patient-22378
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Judith Shannon,8/31/1943,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12410,Patient-12410
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Robin Tanner,2/17/2063,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25180,Patient-25180
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Lonnie Walton,9/16/1964,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13233,Patient-13233
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Dan Liu,4/25/2059,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23309,Patient-23309
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Samantha Kline,1/22/2028,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15565,Patient-15565
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Natalie Aguirre,4/24/1995,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18403,Patient-18403
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Sally Clay,3/14/2050,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20645,Patient-20645
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Eileen Shaw,8/8/2062,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24814,Patient-24814
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Thelma Walter,6/28/1975,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11447,Patient-11447
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Jonathan McConnell,12/5/2062,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24981,Patient-24981
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Ellen Clarke,5/27/2017,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25384,Patient-25384
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Micheal Ramirez,5/18/2046,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19796,Patient-19796
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Viola Campbell,4/6/1956,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-1129,Patient-1129
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Constance Acevedo,6/3/2000,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18721,Patient-18721
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Wendy Allison,12/12/1955,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12904,Patient-12904
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Troy Montes,10/22/1974,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10455,Patient-10455
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Dora Gibbs,9/3/2018,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14485,Patient-14485
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Philip McKee,12/12/1970,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11249,Patient-11249
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Milton Rocha,2/21/2027,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15465,Patient-15465
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Jamie Jefferson,12/15/2040,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18009,Patient-18009
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Ted Miller,1/6/2000,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18144,Patient-18144
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Maurice Reynolds,6/16/2011,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12684,Patient-12684
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Kristin Waters,7/17/2019,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23890,Patient-23890
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Lance Nolan,2/17/2060,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23639,Patient-23639
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Courtney Lam,6/13/1970,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11482,Patient-11482
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Tracy Montes,3/9/1973,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12366,Patient-12366
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Mattie Payne,5/11/2016,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10719,Patient-10719
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Lucille Yates,7/31/2049,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20495,Patient-20495
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Tina Little,6/2/2058,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22978,Patient-22978
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Monica Frey,1/1/2060,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23541,Patient-23541
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Mattie Davenport,11/9/1939,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12639,Patient-12639
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Elsie Roberts,12/5/1973,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11933,Patient-11933
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Aaron Oliver,9/19/2064,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26060,Patient-26060
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Erika Mann,3/14/1975,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10061,Patient-10061
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Wendy Nielsen,2/26/1974,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11724,Patient-11724
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Jane Yang,6/16/2020,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14751,Patient-14751
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Jessica Campbell,10/7/1980,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-1128,Patient-1128
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Loretta Andrade,12/12/2003,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14031,Patient-14031
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Curtis Sellers,2/20/2020,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24669,Patient-24669
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Carmen McLaughlin,1/29/1959,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12180,Patient-12180
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Alicia Ibarra,9/2/1984,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13042,Patient-13042
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Michele Cobb,5/30/1974,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11239,Patient-11239
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Georgia Schaefer,7/6/2006,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22562,Patient-22562
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Renee Rangel,9/6/1970,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14094,Patient-14094
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Darryl Howard,11/13/1981,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13243,Patient-13243
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Darren Madden,9/26/2002,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13580,Patient-13580
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Dorothy Carter,2/16/2042,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18666,Patient-18666
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Marjorie Novak,10/16/1993,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17736,Patient-17736
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Wendy Hood,2/15/2016,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22763,Patient-22763
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Gary Price,12/23/1974,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11313,Patient-11313
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Felix Cuevas,4/6/2027,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15473,Patient-15473
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Wanda Proctor,2/9/1991,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16946,Patient-16946
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Virginia Noble,6/3/2058,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22958,Patient-22958
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Laurie Tapia,12/24/2060,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24013,Patient-24013
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Tyrone Rosales,8/13/1991,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16770,Patient-16770
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Mike Dickerson,7/15/2015,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24010,Patient-24010
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Micheal Graham,10/5/2018,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24841,Patient-24841
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Trudy Campbell,11/15/2010,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-1130,Patient-1130
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Sidney Robertson,7/20/2041,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18354,Patient-18354
+,FDA Drug Recall,Blue Cross,CeltiCare Health Plan ,Myrtle Cook,11/27/1976,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13576,Patient-13576
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Pedro Lawrence,5/26/2034,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16263,Patient-16263
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Stella Villarreal,6/21/1970,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11727,Patient-11727
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Tiffany Duarte,6/10/2020,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24200,Patient-24200
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Ruby Solis,3/13/1971,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10705,Patient-10705
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Brett Flowers,11/4/1981,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15007,Patient-15007
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Ruben Frost,12/6/1992,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17381,Patient-17381
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Neil Barrett,2/12/1971,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10116,Patient-10116
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Brenda Richard,11/15/1976,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-1011,Patient-1011
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Frank Mahoney,12/17/1983,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15609,Patient-15609
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Herman Cooper,12/11/2039,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17545,Patient-17545
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Christy Flores,3/14/2007,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20896,Patient-20896
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Alexander Bowen,4/26/2038,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16985,Patient-16985
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Michael McConnell,4/10/2054,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21718,Patient-21718
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Carl Newman,4/7/2013,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23788,Patient-23788
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Mildred Huffman,4/1/2057,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22587,Patient-22587
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Troy Heath,8/9/2033,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16161,Patient-16161
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Olga Kennedy,8/21/2008,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20650,Patient-20650
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Joy Moyer,10/17/1999,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18862,Patient-18862
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Ramon McDaniel,1/18/2055,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21924,Patient-21924
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Louise Campbell,1/6/2011,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-1131,Patient-1131
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Brett Peck,1/5/2065,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26218,Patient-26218
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Leonard Quinn,12/7/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11393,Patient-11393
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Martin Harper,7/17/2061,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24255,Patient-24255
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Patsy Palmer,10/24/2027,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15527,Patient-15527
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Judith Werner,6/3/2029,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15697,Patient-15697
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Vanessa Bauer,3/15/2044,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19320,Patient-19320
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Randy Paulson,4/29/2040,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17727,Patient-17727
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Debbie Byrd,7/20/1971,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10065,Patient-10065
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Marc Miller,3/31/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10955,Patient-10955
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Harry Maxwell,9/11/1993,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16962,Patient-16962
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Terri Dodson,10/7/1972,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11487,Patient-11487
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Carrie Chen,10/2/2033,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16186,Patient-16186
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Karen Berry,2/4/1958,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12581,Patient-12581
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Bernice Hickman,11/29/2062,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24995,Patient-24995
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Eleanor Sparks,5/12/1997,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18348,Patient-18348
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Brent Petty,8/21/1963,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12959,Patient-12959
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Michele Becker,3/17/2061,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24152,Patient-24152
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Ronald Doyle,1/25/1999,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13419,Patient-13419
+,FDA Drug Recall,Blue Cross,Tufts-New England Medical Center,Kevin Wolfe,6/13/2043,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19161,Patient-19161
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Gilbert Fritz,11/18/1980,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13404,Patient-13404
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Naomi Liu,9/17/2046,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19868,Patient-19868
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Gertrude Downs,1/10/2049,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20347,Patient-20347
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Marilyn Beasley,3/9/2055,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21931,Patient-21931
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Micheal Dorsey,12/27/1975,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10559,Patient-10559
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Greg Larson,3/28/1977,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12661,Patient-12661
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Alvin Arias,6/23/2001,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18806,Patient-18806
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Toni Acosta,2/13/2011,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22284,Patient-22284
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Gregory Randolph,12/5/2014,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24235,Patient-24235
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Terry Harrison,7/23/2018,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23590,Patient-23590
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Kenneth Lara,10/31/1974,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10611,Patient-10611
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Michelle Lopez,2/21/1993,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16240,Patient-16240
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Alex Gonzales,3/20/1963,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-1132,Patient-1132
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Martha Underwood,8/22/2042,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18938,Patient-18938
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Roland Evans,2/16/1995,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16996,Patient-16996
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Greg Tran,12/8/1936,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12653,Patient-12653
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Herbert Blackburn,11/2/2000,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18355,Patient-18355
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Alan Cruz,9/5/1972,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12039,Patient-12039
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Vickie McGrath,8/16/1985,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15508,Patient-15508
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Stanley Bautista,12/8/2055,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22144,Patient-22144
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Helen Beasley,12/3/2044,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19470,Patient-19470
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Nellie Ramsey,1/17/2058,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22817,Patient-22817
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Frances Best,5/10/2025,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-27211,Patient-27211
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Michael Schwartz,12/13/2047,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20128,Patient-20128
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Arlene Alvarado,3/11/1990,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12738,Patient-12738
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Derrick Brock,11/9/2047,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20130,Patient-20130
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Marshall Tate,9/25/2058,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23084,Patient-23084
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Tracey Skinner,5/13/2022,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25144,Patient-25144
+,New Vaccine,Blue Cross,Tufts-New England Medical Center,Bob Henderson,12/26/2036,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16642,Patient-16642
+,New Vaccine,Blue Cross,Mass General,Tiffany Flynn,9/21/2064,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26107,Patient-26107
+,New Vaccine,Blue Cross,Mass General,Wendy Hodges,7/6/1996,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19305,Patient-19305
+,New Vaccine,Blue Cross,Mass General,Wayne Jacobson,7/27/1948,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13583,Patient-13583
+,New Vaccine,Blue Cross,Mass General,Rita Sosa,3/8/2049,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20402,Patient-20402
+,New Vaccine,Blue Cross,Mass General,Eugene Hill,11/1/1970,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13636,Patient-13636
+,New Vaccine,Blue Cross,Mass General,Felix Pierce,3/25/2038,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16982,Patient-16982
+,New Vaccine,Blue Cross,Mass General,Jimmy Maldonado,8/13/1975,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11737,Patient-11737
+,New Vaccine,Blue Cross,Mass General,Sara Washington,8/16/2000,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18942,Patient-18942
+,New Vaccine,Blue Cross,Mass General,Arnold Bass,6/18/1987,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13907,Patient-13907
+,New Vaccine,Blue Cross,Mass General,Kristina Day,3/9/2060,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23650,Patient-23650
+,New Vaccine,Blue Cross,Mass General,Vickie Richard,4/15/1969,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11402,Patient-11402
+,New Vaccine,Blue Cross,Mass General,Shirley Wolf,10/14/1955,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12511,Patient-12511
+,New Vaccine,Blue Cross,Mass General,Adrian Parks,6/8/1997,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18305,Patient-18305
+,New Vaccine,Blue Cross,Mass General,Phyllis Wilkins,10/7/1970,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10777,Patient-10777
+,New Vaccine,Blue Cross,Mass General,Hilda Galloway,4/11/1982,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12376,Patient-12376
+,New Vaccine,Blue Cross,UMassMemorial Health Care,Michael Gonzales,1/29/1992,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-1133,Patient-1133
+,New Vaccine,Blue Cross,UMassMemorial Health Care,Bobby Fritz,12/21/1974,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10779,Patient-10779
+,New Vaccine,Blue Cross,UMassMemorial Health Care,Nancy Stout,5/9/2065,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26458,Patient-26458
+,New Vaccine,Blue Cross,UMassMemorial Health Care,Patsy Figueroa,3/1/1983,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13650,Patient-13650
+,New Vaccine,Anthem,UMassMemorial Health Care,Larry Austin,9/10/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10236,Patient-10236
+,New Vaccine,Anthem,UMassMemorial Health Care,Kenneth Ewing,8/2/2059,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23394,Patient-23394
+,New Vaccine,Anthem,UMassMemorial Health Care,Gabriel Bell,12/11/1971,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10207,Patient-10207
+,New Vaccine,Anthem,UMassMemorial Health Care,Lewis Salazar,9/14/1971,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11352,Patient-11352
+,New Vaccine,Anthem,UMassMemorial Health Care,Lance Bolton,4/11/2050,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20660,Patient-20660
+,New Vaccine,Anthem,UMassMemorial Health Care,Patricia Brown,7/19/2056,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22319,Patient-22319
+,New Vaccine,Anthem,UMassMemorial Health Care,Lorraine Madden,7/20/2043,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19194,Patient-19194
+,New Vaccine,Anthem,UMassMemorial Health Care,Glen Wilson,1/16/2018,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23776,Patient-23776
+,New Vaccine,Anthem,UMassMemorial Health Care,Jill Flores,8/18/1996,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13812,Patient-13812
+,New Vaccine,Anthem,UMassMemorial Health Care,Lois Graves,8/25/1996,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18072,Patient-18072
+,New Vaccine,Anthem,UMassMemorial Health Care,Donald Navarro,1/1/2062,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24518,Patient-24518
+,New Vaccine,Anthem,UMassMemorial Health Care,Marshall Velazquez,7/2/1990,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15939,Patient-15939
+,New Vaccine,Anthem,UMassMemorial Health Care,Freddie Chambers,5/22/1974,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12652,Patient-12652
+,New Vaccine,Anthem,UMassMemorial Health Care,Colleen Castaneda,4/1/2065,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26365,Patient-26365
+,New Vaccine,Anthem,UMassMemorial Health Care,Raoul Gonzales,11/14/1998,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-1134,Patient-1134
+,New Vaccine,Anthem,UMassMemorial Health Care,Evelyn Davidson,6/2/2020,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25956,Patient-25956
+,New Vaccine,Anthem,UMassMemorial Health Care,Kathleen Mullins,3/11/1973,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11494,Patient-11494
+,New Vaccine,Anthem,UMassMemorial Health Care,Nicholas Brady,8/24/2006,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12632,Patient-12632
+,New Vaccine,Anthem,UMassMemorial Health Care,Erik Little,7/17/2025,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15316,Patient-15316
+,New Vaccine,Anthem,UMassMemorial Health Care,Thelma Copeland,4/10/2045,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19555,Patient-19555
+,New Vaccine,Anthem,UMassMemorial Health Care,Michelle Watts,7/15/2016,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11022,Patient-11022
+,New Vaccine,Anthem,UMassMemorial Health Care,Lisa Schroeder,5/13/2065,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26450,Patient-26450
+,New Vaccine,Anthem,UMassMemorial Health Care,Denise Matthews,4/26/1996,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12379,Patient-12379
+,New Vaccine,Anthem,UMassMemorial Health Care,Melissa Salinas,5/3/1974,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10066,Patient-10066
+,New Vaccine,Anthem,UMassMemorial Health Care,Kay Kelly,1/23/1975,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11572,Patient-11572
+,New Vaccine,Anthem,UMassMemorial Health Care,Minnie Todd,6/6/1992,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16523,Patient-16523
+,New Vaccine,Anthem,UMassMemorial Health Care,Carole Stuart,4/20/1972,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11091,Patient-11091
+,New Vaccine,Anthem,UMassMemorial Health Care,Tyler Mendez,2/22/1940,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12172,Patient-12172
+,New Vaccine,Anthem,UMassMemorial Health Care,Lynn Singleton,5/19/2022,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14952,Patient-14952
+,New Vaccine,Anthem,UMassMemorial Health Care,Eduardo Gamble,9/22/2000,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18579,Patient-18579
+,New Vaccine,Anthem,UMassMemorial Health Care,Harvey Bass,6/16/2013,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12896,Patient-12896
+,New Vaccine,Anthem,UMassMemorial Health Care,Gilbert Baxter,2/19/1969,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12099,Patient-12099
+,New Vaccine,Anthem,Boston Medical,Kevin Leblanc,7/13/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13577,Patient-13577
+,New Vaccine,Anthem,Boston Medical,Rhonda Esparza,6/13/1986,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15684,Patient-15684
+,New Vaccine,Anthem,Boston Medical,Nina Velazquez,2/10/2016,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13527,Patient-13527
+,New Vaccine,Anthem,Boston Medical,Armando Mills,10/7/2022,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14979,Patient-14979
+,New Vaccine,Anthem,Boston Medical,Russell Larson,10/24/2013,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23903,Patient-23903
+,New Vaccine,Anthem,Boston Medical,Nathaniel Flynn,11/2/2018,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14520,Patient-14520
+,New Vaccine,Anthem,Boston Medical,Jimmy Fields,9/21/2017,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14346,Patient-14346
+,New Vaccine,Anthem,Boston Medical,Andre Bell,4/16/2020,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14715,Patient-14715
+,New Vaccine,Anthem,Boston Medical,Samantha Joyce,8/10/2040,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17854,Patient-17854
+,New Vaccine,Anthem,Boston Medical,Tommy Cole,12/1/1998,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17519,Patient-17519
+,New Vaccine,Anthem,Boston Medical,Josephine Wilcox,6/2/1995,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17014,Patient-17014
+,New Vaccine,Anthem,Boston Medical,Dean Nolan,8/2/1991,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16071,Patient-16071
+,New Vaccine,Anthem,Boston Medical,Felicia Landry,11/1/1996,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17208,Patient-17208
+,New Vaccine,Anthem,Boston Medical,Kim Petty,10/16/1948,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13137,Patient-13137
+,New Vaccine,Anthem,Boston Medical,Roger Burke,5/2/2019,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26103,Patient-26103
+,New Vaccine,Anthem,Boston Medical,Derek Holloway,3/10/1972,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11626,Patient-11626
+,New Vaccine,Anthem,Boston Medical,Domingo Gonzales,11/6/2001,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-1135,Patient-1135
+,New Vaccine,Anthem,Boston Medical,Leroy Woods,1/23/2065,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26327,Patient-26327
+,New Vaccine,Anthem,Boston Medical,Jeffery Walls,10/7/2051,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21009,Patient-21009
+,New Vaccine,Anthem,Boston Medical,Charlotte Fields,5/19/2025,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15289,Patient-15289
+,New Vaccine,Anthem,Boston Medical,Mae Lynch,8/7/2056,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22358,Patient-22358
+,New Vaccine,Anthem,Boston Medical,Willie Nielsen,3/8/1939,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13584,Patient-13584
+,New Vaccine,Anthem,Boston Medical,Milton Rose,5/10/2003,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19418,Patient-19418
+,New Vaccine,Anthem,Boston Medical,Leonard Walton,10/27/2062,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25003,Patient-25003
+,New Vaccine,Anthem,Boston Medical,Lee Wolf,4/25/1992,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17460,Patient-17460
+,New Vaccine,Anthem,Boston Medical,Jared Thompson,7/7/2047,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20042,Patient-20042
+,New Vaccine,Anthem,Boston Medical,Barbara Bender,7/14/1956,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13922,Patient-13922
+,New Vaccine,Anthem,Boston Medical,Jessie Ryan,4/19/2046,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19787,Patient-19787
+,New Vaccine,Anthem,Boston Medical,Marion Salazar,8/15/2046,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19859,Patient-19859
+,New Vaccine,Anthem,Boston Medical,Bobby Hodges,4/12/2013,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23722,Patient-23722
+,New Vaccine,Anthem,Boston Medical,Craig Atkinson,6/3/2060,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23757,Patient-23757
+,New Vaccine,Anthem,Boston Medical,Greg Dillon,3/31/1946,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12658,Patient-12658
+,New Vaccine,Anthem,Boston Medical,Debra Combs,5/8/2016,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11186,Patient-11186
+,New Vaccine,Anthem,Boston Medical,Donna Jones,3/30/1960,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-1138,Patient-1138
+,New Vaccine,Anthem,Boston Medical,Melinda Sanders,11/15/2005,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20489,Patient-20489
+,New Vaccine,Anthem,Boston Medical,Joann Luna,6/28/2009,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21081,Patient-21081
+,New Vaccine,Anthem,Boston Medical,Amber Eaton,3/9/2060,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23598,Patient-23598
+,New Vaccine,Anthem,Boston Medical,Myrtle Yu,9/11/2006,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20575,Patient-20575
+,New Vaccine,Anthem,Boston Medical,Nicholas Franco,8/23/2039,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17464,Patient-17464
+,New Vaccine,Anthem,Boston Medical,Patsy Rivera,6/24/2060,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23783,Patient-23783
+,New Vaccine,Anthem,Boston Medical,Ethel Michael,3/30/2064,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25842,Patient-25842
+,New Vaccine,Anthem,Boston Medical,Hazel Melendez,9/29/1976,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14508,Patient-14508
+,New Vaccine,Anthem,Boston Medical,Connie Rodriguez,12/10/2027,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15547,Patient-15547
+,New Vaccine,Anthem,Boston Medical,Tracy Simmons,10/28/1993,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16698,Patient-16698
+,New Vaccine,Anthem,Boston Medical,Lillian Booth,1/14/2043,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19067,Patient-19067
+,New Vaccine,Anthem,Boston Medical,Jeffery Atkins,7/8/1997,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18649,Patient-18649
+,New Vaccine,Anthem,Boston Medical,Nellie Hines,8/28/1972,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11987,Patient-11987
+,New Vaccine,Anthem,Boston Medical,Sharon Arias,1/6/1999,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19740,Patient-19740
+,New Vaccine,Anthem,Boston Medical,Clifford Moore,12/16/2052,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21356,Patient-21356
+,New Vaccine,Anthem,Boston Medical,Darlene Lopez,3/21/1996,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18898,Patient-18898
+,New Vaccine,Anthem,UMassMemorial Health Care,Felix Pierce,1/12/2020,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14677,Patient-14677
+,New Vaccine,Anthem,UMassMemorial Health Care,Brandy Zhang,5/30/1975,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10974,Patient-10974
+,New Vaccine,Anthem,UMassMemorial Health Care,Roy Meza,12/5/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11566,Patient-11566
+,New Vaccine,Anthem,UMassMemorial Health Care,Charlie Faulkner,1/19/1988,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13483,Patient-13483
+,New Vaccine,Anthem,UMassMemorial Health Care,Caroline Fleming,12/10/2039,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17591,Patient-17591
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Teresa Dillon,7/1/2019,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24166,Patient-24166
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Joseph Austin,6/27/1975,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10068,Patient-10068
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Jeremy Gould,7/27/1999,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18409,Patient-18409
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Nina Levine,12/5/1974,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11497,Patient-11497
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Anthony Robertson,3/6/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12050,Patient-12050
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Jaime Phelps,11/8/1975,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10082,Patient-10082
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Chris Wade,7/2/2057,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22648,Patient-22648
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Angelica Jones,5/22/1992,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-1136,Patient-1136
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Justin Long,1/30/1972,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11535,Patient-11535
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Dwight Morgan,3/2/1997,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17258,Patient-17258
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Lori Palmer,3/21/2028,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15591,Patient-15591
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Claudia Giles,8/30/1971,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11240,Patient-11240
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Edgar Glenn,5/21/2036,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16551,Patient-16551
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Manuel McKnight,7/14/2048,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20242,Patient-20242
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Glenn Becker,12/15/2034,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16330,Patient-16330
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Jessie Soto,7/27/2065,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26633,Patient-26633
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Jacqueline Heath,1/2/2018,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14377,Patient-14377
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Rebecca Dodson,10/24/1975,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10824,Patient-10824
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Gwendolyn Hinton,10/4/2050,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20775,Patient-20775
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Christy Harper,7/22/2051,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20983,Patient-20983
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Ben Huynh,5/25/2000,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18646,Patient-18646
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Jorge Carrillo,11/4/2002,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19193,Patient-19193
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Jill Sellers,6/28/2063,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25329,Patient-25329
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Emily Aguilar,1/6/1994,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16625,Patient-16625
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Larry Porter,2/18/1966,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13253,Patient-13253
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Suzanne Santiago,3/10/2004,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14054,Patient-14054
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Viola Murphy,5/8/2010,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21318,Patient-21318
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Aiden Jones,1/8/2016,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-1137,Patient-1137
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Emma Brewer,11/18/2063,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25577,Patient-25577
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Melanie Herring,4/17/1993,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16247,Patient-16247
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Antonio Paulson,6/9/2051,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20942,Patient-20942
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Mike Anthony,7/30/2049,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20511,Patient-20511
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",June Chung,4/11/2009,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21085,Patient-21085
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Stacey Koch,12/17/2018,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24754,Patient-24754
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Karl Gallegos,6/29/1969,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10636,Patient-10636
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Valerie West,5/9/1969,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11828,Patient-11828
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Roberto Giles,12/4/1992,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12378,Patient-12378
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Tyler Dalton,5/16/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11657,Patient-11657
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Cassandra Daniels,11/19/1961,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13587,Patient-13587
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Charles Franklin,10/22/2027,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15533,Patient-15533
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Jill Olsen,7/24/1951,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12664,Patient-12664
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Danny Espinoza,6/6/1971,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11708,Patient-11708
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Elaine Colon,2/1/1995,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16801,Patient-16801
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Cynthia Liu,12/12/2009,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21290,Patient-21290
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Jessie Hooper,2/13/2052,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21107,Patient-21107
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Lillie Padilla,9/15/2020,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24272,Patient-24272
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Sandra Bonilla,11/19/2050,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20826,Patient-20826
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Marilyn Zimmerman,9/13/1989,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12492,Patient-12492
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Chad Griffin,6/21/2039,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17384,Patient-17384
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",John Hudson,2/14/1996,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13726,Patient-13726
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Karen Green,12/7/1995,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17187,Patient-17187
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Calvin Flowers,9/23/2064,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26076,Patient-26076
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Gilbert Rangel,5/23/1972,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11235,Patient-11235
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Jeanne Duran,1/12/1999,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18870,Patient-18870
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Loretta Stanton,6/3/2062,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24714,Patient-24714
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Jennifer Keller,11/24/1976,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14632,Patient-14632
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Melissa Sosa,3/12/2060,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23651,Patient-23651
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Lauren Nolan,12/11/2047,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20145,Patient-20145
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Jean Anderson,4/21/1994,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13273,Patient-13273
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Beth Walls,3/2/1998,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18125,Patient-18125
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Ellen Bowers,6/12/2057,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22623,Patient-22623
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Jo Herman,8/23/2016,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13372,Patient-13372
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Dennis Spencer,9/21/1995,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18414,Patient-18414
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Rodney Cantu,11/8/2047,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20126,Patient-20126
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Alex Flowers,2/5/2047,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19947,Patient-19947
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Caroline Vasquez,10/13/1973,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10079,Patient-10079
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Darren Vang,5/16/2058,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22933,Patient-22933
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Reginald Page,2/6/2017,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14256,Patient-14256
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Joyce Turner,10/2/2021,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25576,Patient-25576
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Elizabeth Fitzgerald,5/8/1975,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11499,Patient-11499
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Ernest Cunningham,4/9/1998,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18341,Patient-18341
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Vivian Hammond,1/13/2057,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22495,Patient-22495
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Wendy Jones,8/11/2020,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14754,Patient-14754
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Sean Murillo,12/26/1972,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12109,Patient-12109
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Anne West,2/22/2006,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20143,Patient-20143
+,New Vaccine,HCSC Health Group,"Merola Henry J, MD",Gary Merritt,8/24/2008,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21426,Patient-21426
+,New Vaccine,Humana Group,"Merola Henry J, MD",Vivian Barry,2/7/2024,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15136,Patient-15136
+,New Vaccine,Humana Group,"Merola Henry J, MD",Allan Walton,3/16/2014,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22585,Patient-22585
+,New Vaccine,Humana Group,"Merola Henry J, MD",Sara Rich,6/11/2020,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14734,Patient-14734
+,New Vaccine,Humana Group,"Merola Henry J, MD",Carole Bell,2/12/2023,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15024,Patient-15024
+,New Vaccine,Humana Group,Primary Care of Naugatuck,Leroy Moore,7/17/2055,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22006,Patient-22006
+,New Vaccine,Humana Group,Primary Care of Naugatuck,Evelyn Dudley,1/4/1996,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17152,Patient-17152
+,New Vaccine,Humana Group,Primary Care of Naugatuck,Stacy Costa,3/28/1999,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13739,Patient-13739
+,New Vaccine,Humana Group,Primary Care of Naugatuck,Donald Ayala,9/14/1996,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16865,Patient-16865
+,New Vaccine,Humana Group,Primary Care of Naugatuck,Lloyd Frey,1/8/2048,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20141,Patient-20141
+,New Vaccine,Humana Group,Primary Care of Naugatuck,Cassandra Arnold,7/16/1972,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12063,Patient-12063
+,New Vaccine,Humana Group,Primary Care of Naugatuck,Eric Gardner,11/6/1975,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10301,Patient-10301
+,New Vaccine,Humana Group,Primary Care of Naugatuck,Cassandra Berg,2/16/1999,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17568,Patient-17568
+,New Vaccine,Humana Group,Primary Care of Naugatuck,Sally Compton,10/12/1996,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18410,Patient-18410
+,New Vaccine,Humana Group,Primary Care of Naugatuck,Kay Heath,1/2/2018,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14378,Patient-14378
+,New Vaccine,Humana Group,Primary Care of Naugatuck,Nathaniel Buchanan,1/20/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10677,Patient-10677
+,New Vaccine,Humana Group,Primary Care of Naugatuck,Terry Ewing,10/25/2010,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12689,Patient-12689
+,New Vaccine,Humana Group,Primary Care of Naugatuck,Clara Zimmerman,6/5/2058,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22988,Patient-22988
+,New Vaccine,Humana Group,Primary Care of Naugatuck,Toni Koch,10/10/2002,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20940,Patient-20940
+,New Vaccine,Humana Group,Primary Care of Naugatuck,Alexander Bartlett,3/16/2055,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21941,Patient-21941
+,New Vaccine,Humana Group,Primary Care of Naugatuck,Ryan Nunez,11/30/1956,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13590,Patient-13590
+,New Vaccine,Humana Group,Primary Care of Naugatuck,Salvador Dickson,10/3/1972,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10152,Patient-10152
+,New Vaccine,Humana Group,Primary Care of Naugatuck,Tiffany Edwards,9/19/1993,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17665,Patient-17665
+,New Vaccine,Humana Group,Primary Care of Naugatuck,Philip Ford,7/31/1956,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13066,Patient-13066
+,New Vaccine,Humana Group,Primary Care of Naugatuck,Rosa Sanford,1/14/1996,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17488,Patient-17488
+,New Vaccine,Humana Group,Primary Care of Naugatuck,Judith Morales,12/29/2051,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21080,Patient-21080
+,New Vaccine,Humana Group,Primary Care of Naugatuck,Vera Sharp,2/8/2019,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24437,Patient-24437
+,New Vaccine,Humana Group,Primary Care of Naugatuck,Leroy Barker,5/6/1958,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13662,Patient-13662
+,New Vaccine,HCSC Health Group,Facey Medical Group,Maxine Shepard,4/20/1981,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-2124,Patient-2124
+,New Vaccine,HCSC Health Group,Facey Medical Group,Janet Lawson,2/20/2018,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24711,Patient-24711
+,New Vaccine,HCSC Health Group,Facey Medical Group,Luis Zuniga,6/8/1939,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12670,Patient-12670
+,New Vaccine,HCSC Health Group,Facey Medical Group,Mabel Hoover,11/27/1973,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10143,Patient-10143
+,New Vaccine,HCSC Health Group,Facey Medical Group,Florence Zimmerman,3/11/2057,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22569,Patient-22569
+,New Vaccine,HCSC Health Group,Facey Medical Group,Elizabeth Hendrix,2/22/2009,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13767,Patient-13767
+,New Vaccine,HCSC Health Group,Facey Medical Group,Fernando Spence,1/19/2056,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22205,Patient-22205
+,New Vaccine,HCSC Health Group,Facey Medical Group,Duane Walton,7/26/2003,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19684,Patient-19684
+,New Vaccine,HCSC Health Group,Facey Medical Group,Priscilla Neal,10/20/2034,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16317,Patient-16317
+,New Vaccine,HCSC Health Group,Facey Medical Group,Jackie Lester,11/23/2065,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26761,Patient-26761
+,New Vaccine,HCSC Health Group,Facey Medical Group,Tim Bishop,5/6/2028,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15604,Patient-15604
+,New Vaccine,HCSC Health Group,Facey Medical Group,Warren Frost,8/21/2052,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21281,Patient-21281
+,New Vaccine,HCSC Health Group,Facey Medical Group,Jonathan McCormick,7/24/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12059,Patient-12059
+,New Vaccine,HCSC Health Group,Facey Medical Group,Helen Farrell,11/26/1995,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18256,Patient-18256
+,New Vaccine,HCSC Health Group,Facey Medical Group,Nina Ward,5/15/1984,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12669,Patient-12669
+,New Vaccine,HCSC Health Group,Facey Medical Group,Gail Todd,7/9/1964,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12745,Patient-12745
+,New Vaccine,HCSC Health Group,Facey Medical Group,Gail Crane,4/13/1973,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14356,Patient-14356
+,New Vaccine,HCSC Health Group,Facey Medical Group,Roger Long,7/22/1975,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11932,Patient-11932
+,New Vaccine,HCSC Health Group,Facey Medical Group,Matthew Page,2/12/2018,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14394,Patient-14394
+,New Vaccine,HCSC Health Group,Facey Medical Group,Deanna Holland,6/2/2025,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26949,Patient-26949
+,New Vaccine,HCSC Health Group,Facey Medical Group,Kenneth Stark,5/19/2061,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24170,Patient-24170
+,New Vaccine,HCSC Health Group,Facey Medical Group,Adam Velazquez,4/25/2059,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23327,Patient-23327
+,New Vaccine,HCSC Health Group,Facey Medical Group,Carole Page,1/7/1990,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13378,Patient-13378
+,New Vaccine,HCSC Health Group,Facey Medical Group,Isaac Charles,6/8/2018,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14450,Patient-14450
+,New Vaccine,HCSC Health Group,Facey Medical Group,Tim Morales,11/1/2007,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20831,Patient-20831
+,New Vaccine,HCSC Health Group,Facey Medical Group,Jesse Roy,3/10/2007,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12447,Patient-12447
+,New Vaccine,HCSC Health Group,Facey Medical Group,Vickie Downs,2/23/1974,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-2157,Patient-2157
+,New Vaccine,HCSC Health Group,Facey Medical Group,Melinda Bruce,1/1/2006,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14212,Patient-14212
+,New Vaccine,HCSC Health Group,Facey Medical Group,Jimmy Kemp,2/23/1966,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13060,Patient-13060
+,New Vaccine,HCSC Health Group,Facey Medical Group,Ricardo Levine,8/31/1956,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13754,Patient-13754
+,New Vaccine,HCSC Health Group,Facey Medical Group,Jeanne Evans,3/14/2051,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20860,Patient-20860
+,New Vaccine,HCSC Health Group,Facey Medical Group,Brittany Parsons,2/6/1969,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12313,Patient-12313
+,New Vaccine,HCSC Health Group,Facey Medical Group,Ronald Ramirez,9/9/2018,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14488,Patient-14488
+,New Vaccine,HCSC Health Group,Facey Medical Group,Audrey Beard,11/10/2030,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15854,Patient-15854
+,New Vaccine,HCSC Health Group,Facey Medical Group,Raul Gallegos,4/23/1974,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11502,Patient-11502
+,New Vaccine,HCSC Health Group,Facey Medical Group,Gina Hays,3/31/2065,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26366,Patient-26366
+,New Vaccine,HCSC Health Group,Facey Medical Group,Michele Underwood,3/19/2028,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15578,Patient-15578
+,New Vaccine,HCSC Health Group,Facey Medical Group,Donna Kelley,5/8/2052,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21179,Patient-21179
+,New Vaccine,HCSC Health Group,Facey Medical Group,Frank Werner,3/12/2052,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21114,Patient-21114
+,New Vaccine,HCSC Health Group,Facey Medical Group,Brittany Sellers,8/6/2035,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16422,Patient-16422
+,New Vaccine,HCSC Health Group,Facey Medical Group,Manuel Patton,8/19/1995,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18154,Patient-18154
+,New Vaccine,HCSC Health Group,Facey Medical Group,Sean Ayers,5/30/1965,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10081,Patient-10081
+,New Vaccine,HCSC Health Group,Facey Medical Group,William Hampton,8/4/2002,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12348,Patient-12348
+,New Vaccine,HCSC Health Group,Facey Medical Group,Gertrude Wise,4/8/1974,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10743,Patient-10743
+,New Vaccine,HCSC Health Group,Facey Medical Group,Dustin Martinez,6/10/2015,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23043,Patient-23043
+,New Vaccine,HCSC Health Group,Facey Medical Group,Emily Meza,3/9/2057,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22559,Patient-22559
+,New Vaccine,HCSC Health Group,Facey Medical Group,Nathan Hebert,11/14/2015,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24412,Patient-24412
+,New Vaccine,HCSC Health Group,Facey Medical Group,Juan Combs,7/5/1999,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18196,Patient-18196
+,New Vaccine,HCSC Health Group,Facey Medical Group,Rhonda Tapia,1/8/2016,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24237,Patient-24237
+,New Vaccine,HCSC Health Group,Facey Medical Group,Dwight Valentine,2/10/1953,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14170,Patient-14170
+,New Vaccine,HCSC Health Group,Facey Medical Group,Miriam Stevens,8/30/2063,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25438,Patient-25438
+,New Vaccine,HCSC Health Group,Facey Medical Group,Leslie Wallace,4/21/1983,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16114,Patient-16114
+,New Vaccine,HCSC Health Group,Facey Medical Group,Andrew Cole,10/17/1986,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15556,Patient-15556
+,New Vaccine,HCSC Health Group,Facey Medical Group,Stacey Rivas,3/6/2010,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20912,Patient-20912
+,New Vaccine,HCSC Health Group,Facey Medical Group,Craig Decker,5/28/2031,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15923,Patient-15923
+,New Vaccine,HCSC Health Group,Facey Medical Group,Louis Casey,7/18/1996,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17394,Patient-17394
+,New Vaccine,HCSC Health Group,Facey Medical Group,Jessica Roman,8/1/2059,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23402,Patient-23402
+,New Vaccine,HCSC Health Group,Facey Medical Group,Randall Giles,7/14/2056,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22327,Patient-22327
+,New Vaccine,HCSC Health Group,Facey Medical Group,Manuel Brown,9/27/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10307,Patient-10307
+,New Vaccine,HCSC Health Group,Facey Medical Group,Matthew Christian,2/20/2020,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14703,Patient-14703
+,New Vaccine,HCSC Health Group,Facey Medical Group,Randy Hays,2/3/2029,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15676,Patient-15676
+,New Vaccine,HCSC Health Group,Facey Medical Group,Shane Pacheco,8/18/2000,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19552,Patient-19552
+,New Vaccine,HCSC Health Group,Facey Medical Group,Sylvia Austin,10/26/2007,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20540,Patient-20540
+,New Vaccine,HCSC Health Group,Facey Medical Group,Agnes Hines,1/17/2057,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22506,Patient-22506
+,New Vaccine,HCSC Health Group,Facey Medical Group,Neil Jimenez,8/11/2063,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25406,Patient-25406
+,New Vaccine,HCSC Health Group,Facey Medical Group,Yolanda Fritz,6/4/2060,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23782,Patient-23782
+,New Vaccine,HCSC Health Group,Facey Medical Group,Gerald Kim,2/27/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11279,Patient-11279
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Audrey Pierce,7/2/2049,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20461,Patient-20461
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Felix Mendoza,2/12/1997,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19383,Patient-19383
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Jacqueline Jimenez,8/8/2030,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15830,Patient-15830
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Constance Reeves,5/29/2018,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25198,Patient-25198
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Donna Paul,2/4/2053,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21393,Patient-21393
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Fred Orozco,4/6/1965,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13592,Patient-13592
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Marvin Rich,9/7/1975,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12009,Patient-12009
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Nicole Hanna,8/27/1983,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15254,Patient-15254
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Mabel Clarke,12/5/1972,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11609,Patient-11609
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Pedro Robertson,2/20/1989,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12680,Patient-12680
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Richard Lopez,5/23/2044,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19355,Patient-19355
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Anne Farmer,11/23/2065,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26807,Patient-26807
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Robin McFarland,8/28/1970,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11455,Patient-11455
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Juan Oconnor,5/23/2025,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15303,Patient-15303
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Freddie Roth,11/11/2044,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19457,Patient-19457
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Judith Nguyen,5/17/2046,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19808,Patient-19808
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Herbert Delgado,6/6/2055,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22013,Patient-22013
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Rick Blair,3/14/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11901,Patient-11901
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Betty Dunn,9/3/1993,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17598,Patient-17598
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Clyde Stevenson,10/19/1960,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13167,Patient-13167
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Howard Nixon,3/7/1971,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11087,Patient-11087
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Michele Browning,5/9/2051,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20907,Patient-20907
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Veronica Vasquez,7/8/1946,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13328,Patient-13328
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Willie Huang,10/15/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12106,Patient-12106
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Elizabeth Liu,12/28/2004,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13444,Patient-13444
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Sonia Franco,11/3/2045,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19662,Patient-19662
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Nina Brennan,4/13/1994,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17677,Patient-17677
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Brent Lynch,11/18/2064,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26144,Patient-26144
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Courtney Lester,11/20/2021,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14896,Patient-14896
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Amber Jarvis,8/5/2042,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18865,Patient-18865
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Edward Russell,11/19/2036,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16626,Patient-16626
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Katie Burnett,7/19/2015,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23839,Patient-23839
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Glenda Hodges,1/28/2000,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19082,Patient-19082
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Lorraine Vazquez,3/27/2023,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26398,Patient-26398
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Dale Benton,8/26/2043,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19204,Patient-19204
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Jill Riggs,10/26/2016,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14237,Patient-14237
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Denise Tucker,10/22/1973,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10943,Patient-10943
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Erik Nguyen,9/23/2063,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25515,Patient-25515
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Christian Pierce,3/6/2030,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15787,Patient-15787
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Lauren Carlson,3/17/2016,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23690,Patient-23690
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Jamie Noble,4/21/2046,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19757,Patient-19757
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Mattie Wilkinson,11/28/1973,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11519,Patient-11519
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Edna Larsen,10/11/1975,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10084,Patient-10084
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Penny Joseph,7/13/2019,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24529,Patient-24529
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Barry Jones,8/29/2064,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26062,Patient-26062
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Jose Casey,4/22/2019,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14595,Patient-14595
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Jared Bautista,6/22/2062,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24756,Patient-24756
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Jeffrey Anthony,2/17/2056,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22217,Patient-22217
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Oscar Andersen,7/12/1998,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18841,Patient-18841
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Vicki Wade,11/26/2013,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12266,Patient-12266
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Sherry Ross,10/16/2021,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25276,Patient-25276
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Maria Vaughn,2/16/1975,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12057,Patient-12057
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Jack Frazier,12/29/2053,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21610,Patient-21610
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Lorraine Velez,11/27/2045,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19675,Patient-19675
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Barry Franklin,5/15/2048,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20209,Patient-20209
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Shirley Leonard,11/13/2001,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13524,Patient-13524
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Kelly Shaw,8/4/2056,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22367,Patient-22367
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Rebecca Hampton,11/4/2039,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17526,Patient-17526
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Lonnie Mercado,12/11/2039,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17533,Patient-17533
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Marshall Robertson,5/9/2042,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18767,Patient-18767
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Heather Waller,5/10/1981,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12393,Patient-12393
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Floyd Arias,5/16/2015,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12663,Patient-12663
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Frances Bonilla,9/30/2008,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21054,Patient-21054
+,New Vaccine,HCSC Health Group,HealthCare-Randolph,Grace Weaver,7/15/1999,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17955,Patient-17955
+,New Vaccine,HCSC Health Group,Westside Family Medicine,Jordan Blankenship,1/14/2011,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21702,Patient-21702
+,New Vaccine,HCSC Health Group,Westside Family Medicine,Stanley Anthony,3/6/1998,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17973,Patient-17973
+,New Vaccine,HCSC Health Group,Westside Family Medicine,Velma Schultz,8/22/1982,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12046,Patient-12046
+,New Vaccine,HCSC Health Group,Westside Family Medicine,Brenda Jimenez,4/1/2064,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25755,Patient-25755
+,New Vaccine,HCSC Health Group,Westside Family Medicine,Katrina Lynch,3/31/1995,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17380,Patient-17380
+,New Vaccine,HCSC Health Group,Westside Family Medicine,Kurt Shah,6/5/1947,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13594,Patient-13594
+,New Vaccine,HCSC Health Group,Westside Family Medicine,Rachel Parker,4/11/2043,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19112,Patient-19112
+,New Vaccine,HCSC Health Group,Westside Family Medicine,Gwendolyn McCarthy,6/17/1948,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12686,Patient-12686
+,New Vaccine,HCSC Health Group,Westside Family Medicine,Rene Hoffman,12/20/2033,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16210,Patient-16210
+,New Vaccine,HCSC Health Group,Westside Family Medicine,Christine Paul,4/9/2001,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18689,Patient-18689
+,New Vaccine,HCSC Health Group,Westside Family Medicine,Sonia Cobb,3/16/1998,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17858,Patient-17858
+,New Vaccine,HCSC Health Group,Westside Family Medicine,Jesus Flynn,8/13/2000,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20211,Patient-20211
+,New Vaccine,HCSC Health Group,Westside Family Medicine,Jack Kidd,11/29/2052,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21357,Patient-21357
+,New Vaccine,HCSC Health Group,Westside Family Medicine,Bryan Skinner,2/4/1942,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13675,Patient-13675
+,New Vaccine,HCSC Health Group,Westside Family Medicine,Lorraine Gardner,9/20/2046,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19863,Patient-19863
+,New Vaccine,HCSC Health Group,Westside Family Medicine,Rene Fernandez,7/2/1971,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11691,Patient-11691
+,New Vaccine,HCSC Health Group,Westside Family Medicine,Jane Gay,10/20/1972,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13813,Patient-13813
+,New Vaccine,HCSC Health Group,Westside Family Medicine,Calvin Neal,3/7/2065,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26407,Patient-26407
+,New Vaccine,HCSC Health Group,Westside Family Medicine,Eileen Rodgers,1/9/1996,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17216,Patient-17216
+,New Vaccine,HCSC Health Group,Westside Family Medicine,Kimberly George,11/6/1974,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10352,Patient-10352
+,New Vaccine,HCSC Health Group,Facey Medical Group,Stacy Benitez,12/12/1987,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14172,Patient-14172
+,New Vaccine,HCSC Health Group,Facey Medical Group,Vera Colon,12/31/2015,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13126,Patient-13126
+,New Vaccine,HCSC Health Group,Facey Medical Group,Morris Black,7/14/1996,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17462,Patient-17462
+,New Vaccine,HCSC Health Group,Facey Medical Group,Danny Holmes,5/9/2052,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21193,Patient-21193
+,New Vaccine,HCSC Health Group,Facey Medical Group,Felix Delacruz,6/4/2053,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21450,Patient-21450
+,New Vaccine,HCSC Health Group,Facey Medical Group,Becky Keith,10/24/2023,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15101,Patient-15101
+,New Vaccine,HCSC Health Group,Facey Medical Group,Vanessa Skinner,7/2/2028,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15611,Patient-15611
+,New Vaccine,HCSC Health Group,Facey Medical Group,Norman Lozano,9/18/2019,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14650,Patient-14650
+,New Vaccine,HCSC Health Group,Facey Medical Group,Daniel Caldwell,7/2/2063,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25405,Patient-25405
+,New Vaccine,HCSC Health Group,Facey Medical Group,Vera Tran,11/9/2044,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19458,Patient-19458
+,New Vaccine,HCSC Health Group,Facey Medical Group,Elizabeth Bell,11/12/2060,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24003,Patient-24003
+,New Vaccine,HCSC Health Group,Facey Medical Group,Derrick Boyd,4/20/2059,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23336,Patient-23336
+,New Vaccine,HCSC Health Group,Facey Medical Group,Katrina McKee,12/28/2002,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20256,Patient-20256
+,New Vaccine,HCSC Health Group,Facey Medical Group,Veronica Peters,3/15/2055,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21947,Patient-21947
+,New Vaccine,HCSC Health Group,Facey Medical Group,Tracy Savage,4/24/2030,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15793,Patient-15793
+,New Vaccine,HCSC Health Group,Facey Medical Group,Misty Kelly,2/27/2013,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21787,Patient-21787
+,New Vaccine,HCSC Health Group,Facey Medical Group,Mitchell Fields,11/6/2054,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21875,Patient-21875
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Kristina Patel,1/3/1986,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15777,Patient-15777
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Billy Cooley,2/28/2058,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22893,Patient-22893
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Vicki Sellers,10/13/1996,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18312,Patient-18312
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Wallace Liu,1/13/2047,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19945,Patient-19945
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Ethel Davies,3/30/2021,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24553,Patient-24553
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Katherine Swanson,5/8/2065,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26431,Patient-26431
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Erin Romero,8/15/2007,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13534,Patient-13534
+,New Vaccine,HCSC Health Group,UMassMemorial Health Care,Herman Pollard,8/18/1995,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18098,Patient-18098
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Alexander Fleming,7/21/2029,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15722,Patient-15722
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Vivian Abbott,1/11/1970,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10086,Patient-10086
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Brenda Olsen,4/14/1997,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17958,Patient-17958
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Francisco Costa,5/27/2039,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17371,Patient-17371
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Philip Andrade,1/18/2041,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18121,Patient-18121
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Clifton Hayden,4/13/2051,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20914,Patient-20914
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Amy Glass,11/24/2032,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16070,Patient-16070
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Elizabeth Hinton,11/28/1990,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16446,Patient-16446
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Andrew Mendez,10/11/2008,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22739,Patient-22739
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Emily Levy,4/24/1996,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19028,Patient-19028
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Roger Ford,4/20/2018,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14425,Patient-14425
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Don Goodman,6/21/1974,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10704,Patient-10704
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Jeffrey Ford,12/30/2063,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25626,Patient-25626
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Evelyn Hickman,5/31/2015,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23197,Patient-23197
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Leah Mercado,8/22/2000,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13318,Patient-13318
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Eugene Pugh,5/4/1962,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12882,Patient-12882
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Ruben Levy,4/21/1975,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11005,Patient-11005
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Lee Gilmore,9/28/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11491,Patient-11491
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Gordon Hansen,8/31/1993,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17506,Patient-17506
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Dora Shields,2/5/2013,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21577,Patient-21577
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Wayne Blair,2/3/2020,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24700,Patient-24700
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Marvin Gibbs,11/5/2031,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15964,Patient-15964
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Katherine Hatfield,6/23/2053,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21494,Patient-21494
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Jorge Dodson,1/25/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10483,Patient-10483
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Roland Riggs,11/5/1975,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11409,Patient-11409
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Mathew Alexander,7/3/2057,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22664,Patient-22664
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Phyllis Conway,8/22/1959,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12723,Patient-12723
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Sally McLean,3/13/1994,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18537,Patient-18537
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Stella Olson,1/3/2018,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14391,Patient-14391
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Carole Leblanc,12/27/2045,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19687,Patient-19687
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Delores Schroeder,9/27/1971,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11648,Patient-11648
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Bertha Phelps,2/10/2047,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19942,Patient-19942
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Roy Parker,10/9/2047,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20087,Patient-20087
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Edward Charles,5/25/1943,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12688,Patient-12688
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Tammy Norton,11/26/2016,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25295,Patient-25295
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Wallace Browning,8/30/2000,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18505,Patient-18505
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Jorge Young,1/2/1941,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12976,Patient-12976
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Jon Colon,8/15/1951,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13597,Patient-13597
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Tanya Walker,1/1/2027,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15456,Patient-15456
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Marcia Marquez,8/4/1990,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15956,Patient-15956
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Corey Fleming,12/2/2056,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22487,Patient-22487
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Byron Fields,9/24/2038,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17107,Patient-17107
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",John Leonard,1/18/2053,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21364,Patient-21364
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Margie Sanders,9/30/2001,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12182,Patient-12182
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Frances Shields,7/7/2048,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20240,Patient-20240
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Clara Velez,11/10/2030,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15849,Patient-15849
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Johnny Petersen,7/21/1985,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16277,Patient-16277
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Courtney Rollins,6/10/2057,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22654,Patient-22654
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Audrey Estes,12/10/1987,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12156,Patient-12156
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Marc Wheeler,9/6/2045,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19639,Patient-19639
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Jim Waller,5/12/1976,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14755,Patient-14755
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Yolanda Randolph,6/15/1997,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17340,Patient-17340
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Wesley Benton,8/26/2043,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19205,Patient-19205
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Charlotte Lee,5/10/2028,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15597,Patient-15597
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Kristina Hines,6/9/2015,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22748,Patient-22748
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Seth Ali,6/21/2022,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25468,Patient-25468
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Karen Ho,10/10/2040,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17977,Patient-17977
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Troy Barajas,11/29/1975,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11509,Patient-11509
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Diane Steele,12/20/1986,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12558,Patient-12558
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Kathy Gardner,5/26/2064,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25921,Patient-25921
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Richard Robertson,8/30/2034,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16294,Patient-16294
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Deanna Humphrey,3/31/1973,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11955,Patient-11955
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Rene Carter,1/25/1998,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18495,Patient-18495
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Ivan Yu,2/10/1993,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16997,Patient-16997
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Kristin Holt,5/2/1967,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10484,Patient-10484
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Connie Quinn,5/14/2060,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23742,Patient-23742
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Jorge Hensley,8/31/1998,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18959,Patient-18959
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Juan Stafford,3/7/2049,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20381,Patient-20381
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Calvin Norris,3/13/2060,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23630,Patient-23630
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Tim Richmond,8/27/2016,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10031,Patient-10031
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Laurie Castillo,12/15/2019,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24821,Patient-24821
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Julian Waller,7/21/2043,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19186,Patient-19186
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Charlotte Yoder,2/11/2043,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19058,Patient-19058
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Grace Hart,9/3/2047,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20071,Patient-20071
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Eileen Werner,9/20/1974,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10100,Patient-10100
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Sara Blanchard,3/25/2053,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21431,Patient-21431
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Kathryn Bradshaw,12/31/2036,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16669,Patient-16669
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Marilyn Peters,9/18/2060,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23914,Patient-23914
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Sally Lozano,9/18/2019,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14651,Patient-14651
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Alfred Potts,1/14/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11527,Patient-11527
+,New Generic Drug,HCSC Health Group,"Derek Sun, MD, PhD",Chad Castaneda,4/12/2018,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24798,Patient-24798
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Tommy Hicks,4/23/1998,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18370,Patient-18370
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Deborah Wright,4/13/2018,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25222,Patient-25222
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Heidi Hodge,6/2/2040,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17797,Patient-17797
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Jennie McFarland,4/25/1998,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13608,Patient-13608
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Sherri Landry,6/25/2010,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12582,Patient-12582
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Carole Buchanan,9/6/1977,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-2161,Patient-2161
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Salvador Pennington,2/2/1995,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16783,Patient-16783
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Glenda Hickman,3/13/2060,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23610,Patient-23610
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Kay Holmes,5/9/2052,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21194,Patient-21194
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Stacy Maddox,5/11/1974,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11380,Patient-11380
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Linda Graves,7/4/2065,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26604,Patient-26604
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Jon Werner,4/27/2020,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14708,Patient-14708
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Thomas Owens,11/25/1974,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10475,Patient-10475
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Dustin Ritter,12/31/2030,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15868,Patient-15868
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Dawn Palmer,9/27/2033,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16173,Patient-16173
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Nina Cain,6/24/2052,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21211,Patient-21211
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Don Zimmerman,12/18/2052,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21339,Patient-21339
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Clarence Webb,2/7/1974,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11496,Patient-11496
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Fred Avery,5/24/2044,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19362,Patient-19362
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Matthew Shepherd,12/11/1969,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10871,Patient-10871
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Zachary Burgess,3/28/2062,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24608,Patient-24608
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Elaine Montoya,6/7/2022,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25327,Patient-25327
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Jack Hartman,4/3/2001,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18790,Patient-18790
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Bradley Sanders,3/5/2030,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15782,Patient-15782
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Karl Salas,7/10/2000,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18713,Patient-18713
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Jared Forbes,4/16/1997,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16938,Patient-16938
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Jay Ewing,7/31/2037,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16777,Patient-16777
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Clinton Watkins,4/6/2031,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15899,Patient-15899
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Erin Moon,8/3/2042,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18894,Patient-18894
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Marshall Rodgers,10/25/1940,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13606,Patient-13606
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Tim Best,11/4/1994,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17265,Patient-17265
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Don Friedman,4/3/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10654,Patient-10654
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Thelma McFarland,4/2/1973,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11796,Patient-11796
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Leon Todd,9/13/1971,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12690,Patient-12690
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Vivian Watkins,3/31/2057,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22547,Patient-22547
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Mattie Booker,1/3/1999,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18275,Patient-18275
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Randy Michael,2/3/1991,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12351,Patient-12351
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Marie Arroyo,6/20/2017,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14320,Patient-14320
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Bradley Scott,11/17/2006,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13943,Patient-13943
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Tyler Boyd,3/12/2044,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19321,Patient-19321
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Lonnie Lynch,6/29/2057,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22650,Patient-22650
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Alvin Velez,1/7/2020,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14678,Patient-14678
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Dana Shaw,8/23/2052,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21249,Patient-21249
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Terrance Tyler,4/2/1970,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10385,Patient-10385
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Vincent Finley,12/24/2064,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26262,Patient-26262
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Melissa Obrien,6/24/2055,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22017,Patient-22017
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Nora Harvey,10/26/1946,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14184,Patient-14184
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Kay McCarthy,1/29/2065,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26286,Patient-26286
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Morris Lynn,5/13/1996,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17311,Patient-17311
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Fernando Conner,11/7/2033,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16199,Patient-16199
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Leona Juarez,2/26/1973,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11513,Patient-11513
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Alfred Rasmussen,1/24/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10873,Patient-10873
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Julia Conway,12/15/2006,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20254,Patient-20254
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Tracy Hess,10/6/2050,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20785,Patient-20785
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Brent Harmon,10/18/1975,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11948,Patient-11948
+,New Generic Drug,HCSC Health Group,School-Based Health Center,Joseph Warren,10/13/1997,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18958,Patient-18958
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Everett Ramirez,9/20/1977,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13153,Patient-13153
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Leroy Mercado,10/5/2063,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25486,Patient-25486
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Donald Perry,11/19/2055,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22125,Patient-22125
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Sara Davies,6/4/2060,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23729,Patient-23729
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Gloria Mays,8/6/2060,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23854,Patient-23854
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Ruth Page,7/28/2031,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15948,Patient-15948
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Leon Guerrero,1/10/2010,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13480,Patient-13480
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Kent Terrell,3/21/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10106,Patient-10106
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Diane Bautista,1/1/2060,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23579,Patient-23579
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Suzanne Hanna,7/8/2011,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24315,Patient-24315
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Samuel Flowers,12/6/1970,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11359,Patient-11359
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Kathleen Walter,1/9/1976,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11759,Patient-11759
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Jason Curry,3/9/2056,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22251,Patient-22251
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Rene Yates,1/23/1997,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18071,Patient-18071
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Brett Gibson,7/17/2056,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22339,Patient-22339
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Leo Garrison,3/18/2001,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18737,Patient-18737
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Derrick Castro,4/4/2063,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25194,Patient-25194
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Erin Prince,1/7/1974,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10558,Patient-10558
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Misty Oconnor,12/14/2016,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14250,Patient-14250
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Amy Davies,12/31/1963,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12945,Patient-12945
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Hector Clarke,9/28/1974,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10978,Patient-10978
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Cindy Ford,5/9/2062,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24726,Patient-24726
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Jordan Shea,8/18/1998,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18224,Patient-18224
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Kent Golden,12/2/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10672,Patient-10672
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Tara Hart,9/3/2047,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20072,Patient-20072
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Ben Cooke,9/23/2056,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22437,Patient-22437
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Claudia McCall,10/24/2053,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21569,Patient-21569
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Willie Stuart,6/2/2000,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18965,Patient-18965
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Jerry Holmes,6/1/2058,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22980,Patient-22980
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Carolyn Stewart,3/27/1996,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17246,Patient-17246
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Kathryn Booker,12/14/2055,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22156,Patient-22156
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Herman Ayers,10/6/2020,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14772,Patient-14772
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Heidi Vazquez,12/27/2031,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15983,Patient-15983
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Delores Wolfe,4/6/2029,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15691,Patient-15691
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Marlene Crosby,2/15/2016,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24416,Patient-24416
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Joan Roman,11/7/1998,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19561,Patient-19561
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Tim Guerra,9/24/2018,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25253,Patient-25253
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Louise Galloway,3/12/2045,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19525,Patient-19525
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Olga Gonzalez,5/5/2051,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20905,Patient-20905
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Todd Pratt,8/16/1991,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17447,Patient-17447
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Theodore Jackson,8/9/1999,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18334,Patient-18334
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,John Barajas,2/28/2048,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20165,Patient-20165
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Edward Pierce,10/20/2042,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18975,Patient-18975
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Jared Gibbs,9/30/1918,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12693,Patient-12693
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Virgil Stephenson,8/12/2015,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13346,Patient-13346
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Katherine Daugherty,10/10/2054,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21851,Patient-21851
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Bernice Daugherty,5/25/2021,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14851,Patient-14851
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Wanda Townsend,12/29/1975,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10120,Patient-10120
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Franklin Hutchinson,4/1/2064,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25771,Patient-25771
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Nellie Tate,11/13/1973,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-2127,Patient-2127
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Carla McMahon,6/10/2045,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19602,Patient-19602
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Stacy Benitez,8/4/2030,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15827,Patient-15827
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Janet Valentine,9/3/2020,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25872,Patient-25872
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Sue Thomas,1/17/2044,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19277,Patient-19277
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Patsy Reynolds,7/5/1975,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10175,Patient-10175
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Lucille Neal,6/22/2060,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23815,Patient-23815
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Byron Warren,3/5/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11940,Patient-11940
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,William Barr,9/23/1975,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11525,Patient-11525
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Theresa Cowan,4/12/2043,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19131,Patient-19131
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Timothy Levy,11/16/2042,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19021,Patient-19021
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Yolanda Rogers,9/2/2027,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15512,Patient-15512
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Jimmie Chung,9/28/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11070,Patient-11070
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Kristen Dixon,7/20/1996,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18133,Patient-18133
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Leona Li,2/15/1992,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17040,Patient-17040
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Bradley Hooper,6/5/2038,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17043,Patient-17043
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Beverly Huffman,12/27/1999,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18950,Patient-18950
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Ian McGuire,12/16/2042,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19046,Patient-19046
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Nancy White,12/30/1933,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13610,Patient-13610
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Joan Elliott,4/21/2057,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22602,Patient-22602
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Irma Marks,10/6/2048,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20296,Patient-20296
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Geraldine Stanton,10/20/1974,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11431,Patient-11431
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Kathryn Beasley,11/20/2059,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23523,Patient-23523
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Earl Pope,10/26/2063,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25544,Patient-25544
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Annie Rosales,11/8/2019,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24097,Patient-24097
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Suzanne Love,5/23/2026,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15405,Patient-15405
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Jenny Franklin,6/7/2045,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19608,Patient-19608
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Rachel Ramsey,3/17/1998,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18094,Patient-18094
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Rosa Graham,5/18/2000,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18781,Patient-18781
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Amy Romero,12/13/1975,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10111,Patient-10111
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Alex Rojas,10/6/2039,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17475,Patient-17475
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Mae Ramsey,10/3/2017,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24201,Patient-24201
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Jorge Robertson,9/24/2042,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18920,Patient-18920
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Brittany Perry,1/13/2051,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20841,Patient-20841
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Carolyn Roberson,12/31/2055,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22160,Patient-22160
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Norma Herring,11/16/1996,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18963,Patient-18963
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Tony Fletcher,6/1/1997,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17416,Patient-17416
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Jeanne Fitzgerald,12/2/2045,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19685,Patient-19685
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Antonio Meza,6/26/2054,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21750,Patient-21750
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Megan Lewis,2/20/1961,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12261,Patient-12261
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Lydia Burnett,2/23/2012,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22321,Patient-22321
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Tyrone Haley,2/19/1990,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12905,Patient-12905
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Sherri McGuire,5/23/2022,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14958,Patient-14958
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Georgia Erickson,5/15/2046,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19776,Patient-19776
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Alice Braun,4/7/2054,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21725,Patient-21725
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Jose Montes,12/17/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14267,Patient-14267
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Becky Hines,12/7/1972,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10252,Patient-10252
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Dwayne Eaton,3/18/1982,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13429,Patient-13429
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Howard Santana,9/13/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10927,Patient-10927
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Angel Watkins,5/3/2063,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25299,Patient-25299
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Marie Kirk,8/24/1973,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10994,Patient-10994
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Jeffrey Sawyer,9/23/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13384,Patient-13384
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Travis McDowell,1/23/2036,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16495,Patient-16495
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Vincent Buckley,2/25/1971,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13679,Patient-13679
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Roberto Pearson,10/9/1972,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11696,Patient-11696
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Joann McDaniel,8/28/2015,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24276,Patient-24276
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Terry Spencer,11/13/1972,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11507,Patient-11507
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Samantha Curry,3/2/2010,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21458,Patient-21458
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Sharon Vang,9/23/2038,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17122,Patient-17122
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Deborah Conrad,7/24/2025,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15308,Patient-15308
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Teresa Patton,12/14/2047,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20140,Patient-20140
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Ann Wise,2/15/2021,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14812,Patient-14812
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Tina Benton,5/16/2061,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24186,Patient-24186
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Wallace Solis,4/7/2005,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21160,Patient-21160
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Joan Carpenter,9/5/2048,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20288,Patient-20288
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Ella Sexton,7/29/1966,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14005,Patient-14005
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Jeffrey Navarro,2/17/1971,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10486,Patient-10486
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Sam Franco,9/4/2047,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20076,Patient-20076
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Glenn Cameron,1/26/1972,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10972,Patient-10972
+,New Generic Drug,HCSC Health Group,UMassMemorial Health Care,Rosemary Robertson,3/9/2056,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22221,Patient-22221
+,New Generic Drug,HCSC Health Group,New York Health Center,Sam Henderson,3/30/2007,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13779,Patient-13779
+,New Generic Drug,HCSC Health Group,New York Health Center,Sarah Ayers,10/6/2020,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14773,Patient-14773
+,New Generic Drug,HCSC Health Group,New York Health Center,Caroline Franco,12/20/2043,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19293,Patient-19293
+,New Generic Drug,HCSC Health Group,New York Health Center,Andrea Newman,1/16/1998,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12533,Patient-12533
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Willie Barr,6/30/1976,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13574,Patient-13574
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Pamela Novak,6/5/1975,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12060,Patient-12060
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Dave Carrillo,7/2/1974,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11837,Patient-11837
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Marcia Carpenter,3/4/1971,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11984,Patient-11984
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Roy Benton,11/9/2058,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23117,Patient-23117
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Dan Cline,11/26/2043,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19267,Patient-19267
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Gina Vazquez,2/18/2027,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15463,Patient-15463
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Virginia Whitney,9/5/2044,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19438,Patient-19438
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Dan Maynard,5/6/1980,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13379,Patient-13379
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Philip Alvarado,8/8/2020,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25665,Patient-25665
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Ernest Neal,5/16/2001,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21182,Patient-21182
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Beth Duarte,11/16/2063,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25586,Patient-25586
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Roberto Kline,11/20/2017,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14370,Patient-14370
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Leonard Morrow,1/1/1999,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17674,Patient-17674
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Gregory Werner,11/15/2018,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24400,Patient-24400
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Elizabeth Nguyen,2/28/1928,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13630,Patient-13630
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Charlie Crawford,12/25/1974,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11398,Patient-11398
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Connie Haynes,12/17/2028,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15665,Patient-15665
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Victor Eaton,1/17/2036,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16507,Patient-16507
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Edith Castaneda,9/20/2021,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14892,Patient-14892
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Elaine Reyes,8/10/2040,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17829,Patient-17829
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Irene Morris,1/10/2023,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26028,Patient-26028
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Christine Marsh,12/12/1973,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10124,Patient-10124
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Pauline Watkins,5/3/2063,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25298,Patient-25298
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Arthur Dawson,4/19/2018,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14428,Patient-14428
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Carolyn Berg,7/18/1971,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11884,Patient-11884
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Dustin Parsons,8/5/2048,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20285,Patient-20285
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Gladys Faulkner,3/20/1995,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16697,Patient-16697
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Roberta McIntyre,12/22/2057,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22798,Patient-22798
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,James Salas,10/24/2064,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26092,Patient-26092
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Wayne Nichols,8/20/1977,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13563,Patient-13563
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Aaron Short,2/17/1975,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11492,Patient-11492
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Kay Hoffman,3/28/2064,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25811,Patient-25811
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Raymond Short,4/24/1974,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11879,Patient-11879
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Jennifer McKee,10/16/2036,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16608,Patient-16608
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Virgil Thomas,1/2/2018,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14381,Patient-14381
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Clifton Williams,1/26/1977,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14068,Patient-14068
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Suzanne Noble,2/6/1968,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14199,Patient-14199
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Bernice Rollins,9/2/2034,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16303,Patient-16303
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Christina Floyd,4/11/1960,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13633,Patient-13633
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Marvin Duran,1/5/1962,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13820,Patient-13820
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Roland Archer,10/4/2006,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20799,Patient-20799
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Ruby Watkins,1/28/2026,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15358,Patient-15358
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Perry Mooney,4/5/1971,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-2201,Patient-2201
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Christine Thomas,8/3/2012,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21700,Patient-21700
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Frank Thornton,12/27/2038,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17222,Patient-17222
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Manuel Holder,6/26/2055,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22018,Patient-22018
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Arthur Lopez,12/27/2056,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22484,Patient-22484
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Christopher Lloyd,3/22/2016,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13972,Patient-13972
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Leona Ellis,6/7/2015,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22416,Patient-22416
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Viola Day,3/29/2062,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24649,Patient-24649
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Franklin Steele,4/27/2023,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15052,Patient-15052
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Virgil Walker,5/20/2044,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19363,Patient-19363
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Ella Solomon,6/26/1973,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11101,Patient-11101
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Frances Jimenez,2/2/2035,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16347,Patient-16347
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Heather Bass,1/10/1969,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11558,Patient-11558
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Emma Thomas,7/20/2043,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19195,Patient-19195
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Todd Small,10/7/2045,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19656,Patient-19656
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Floyd Conley,11/14/2026,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15445,Patient-15445
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Adam Conner,12/13/2055,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22137,Patient-22137
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Charlene Woods,4/12/2051,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20894,Patient-20894
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Agnes Kim,2/16/2019,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14565,Patient-14565
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Clyde Rodgers,3/13/2060,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23631,Patient-23631
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Derek Simpson,4/10/2021,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14830,Patient-14830
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Alfredo Mueller,12/6/1995,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16963,Patient-16963
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Ivan Barr,11/8/1999,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17836,Patient-17836
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Clinton Daniels,12/20/2052,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21370,Patient-21370
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Ryan Riggs,2/1/1975,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14260,Patient-14260
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Catherine Knight,12/23/2046,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19934,Patient-19934
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Grace Savage,4/13/1948,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12706,Patient-12706
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Jerome Hays,5/15/1994,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17109,Patient-17109
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Mathew Cochran,6/10/1974,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10852,Patient-10852
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Julia Oconnor,11/4/2045,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19672,Patient-19672
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Kyle Blanchard,6/7/2045,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19600,Patient-19600
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Patsy Price,12/27/2063,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25627,Patient-25627
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Becky Webb,3/15/2064,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-25788,Patient-25788
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Allen Shaw,1/14/1972,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13687,Patient-13687
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Ashley Colon,1/10/2040,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17592,Patient-17592
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Kathryn Liu,8/24/2057,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22678,Patient-22678
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Brian Pham,12/18/1997,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19545,Patient-19545
+,New Generic Drug,HCSC Health Group,Primary Care of Naugatuck,Jeffery Sellers,9/12/1972,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11707,Patient-11707
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Kathy Gallegos,4/16/1972,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11045,Patient-11045
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Melinda Moore,8/6/1995,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17103,Patient-17103
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Lydia Benton,5/19/2061,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24187,Patient-24187
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Joel Schmitt,12/11/1971,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10128,Patient-10128
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Jacob Meadows,7/24/1995,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18526,Patient-18526
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Eduardo Klein,6/22/2015,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24735,Patient-24735
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Arlene Haas,8/21/1973,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11498,Patient-11498
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Marcus Wise,6/22/2019,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14611,Patient-14611
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Thomas Jacobs,10/9/2008,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-20963,Patient-20963
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Minnie Armstrong,12/19/2013,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12494,Patient-12494
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Shirley Novak,7/19/2002,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19500,Patient-19500
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Esther McKenzie,4/4/2062,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-24609,Patient-24609
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Ricardo Gonzales,4/20/1995,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17432,Patient-17432
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Ronald Dennis,1/27/2054,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21634,Patient-21634
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Eva Sheppard,12/18/2023,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15120,Patient-15120
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Terry Carpenter,7/30/2057,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22681,Patient-22681
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Travis Proctor,9/10/2011,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12246,Patient-12246
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Aaron Stanton,8/19/1977,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13935,Patient-13935
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Adrian Dudley,9/26/1973,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10810,Patient-10810
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Elizabeth Fuller,2/15/1938,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13640,Patient-13640
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Amy Valenzuela,12/20/2013,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23227,Patient-23227
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Marcus Willis,2/16/1996,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17114,Patient-17114
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Todd Flores,6/26/2055,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22029,Patient-22029
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Sidney Simon,5/25/1999,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18346,Patient-18346
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Vicki Li,6/1/2065,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26477,Patient-26477
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Kim Castaneda,1/4/2010,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21294,Patient-21294
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Ernest Oconnor,2/28/1976,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14319,Patient-14319
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Samantha Parks,3/25/2037,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16693,Patient-16693
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Lena Larson,8/12/2064,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26029,Patient-26029
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Kenneth Valdez,5/10/1994,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16930,Patient-16930
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Jessica Soto,4/21/2059,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-23273,Patient-23273
+,New Generic Drug,HCSC Health Group,UHS Hospitals Primary Care Services,Robin Boyer,1/23/1985,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16469,Patient-16469
+,New Generic Drug,HCSC Health Group,Buffalo Medical Group,Harvey Joseph,7/3/2005,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-21406,Patient-21406
+,New Generic Drug,HCSC Health Group,Buffalo Medical Group,Ana Kent,11/8/1979,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12621,Patient-12621
+,New Generic Drug,HCSC Health Group,Buffalo Medical Group,Catherine Massey,8/27/1974,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14823,Patient-14823
+,New Generic Drug,HCSC Health Group,Buffalo Medical Group,Kevin Olson,7/26/2027,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15498,Patient-15498
+,New Generic Drug,HCSC Health Group,Buffalo Medical Group,Amber Glover,8/16/1991,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17566,Patient-17566
+,New Generic Drug,HCSC Health Group,Buffalo Medical Group,Jessie Beard,12/14/2055,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22158,Patient-22158
+,New Generic Drug,HCSC Health Group,Buffalo Medical Group,Wendy Obrien,7/1/1974,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11689,Patient-11689
+,New Generic Drug,HCSC Health Group,Buffalo Medical Group,Jesse Curry,6/10/2057,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-22617,Patient-22617
+,New Generic Drug,HCSC Health Group,Buffalo Medical Group,Byron Roberson,7/26/2037,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16761,Patient-16761
+,New Generic Drug,HCSC Health Group,Buffalo Medical Group,Ashley Rollins,9/2/2034,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-16304,Patient-16304
+,New Generic Drug,HCSC Health Group,Buffalo Medical Group,Barbara Schultz,6/30/1975,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-11610,Patient-11610
+,New Generic Drug,HCSC Health Group,Buffalo Medical Group,Constance Schmitt,3/12/1994,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17138,Patient-17138
+,New Generic Drug,HCSC Health Group,Buffalo Medical Group,Kirk Adkins,10/25/1974,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-10980,Patient-10980
+,New Generic Drug,HCSC Health Group,Buffalo Medical Group,Jimmy Waller,5/24/2021,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-14855,Patient-14855
+,New Generic Drug,HCSC Health Group,Buffalo Medical Group,Ruby Lloyd,3/22/2016,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-13973,Patient-13973
+,New Generic Drug,HCSC Health Group,Buffalo Medical Group,Mike Lynn,4/16/2044,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19353,Patient-19353
+,New Generic Drug,HCSC Health Group,Buffalo Medical Group,Beatrice Hancock,6/14/2043,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19172,Patient-19172
+,New Generic Drug,HCSC Health Group,Buffalo Medical Group,Katie Tate,5/24/2044,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19356,Patient-19356
+,New Generic Drug,HCSC Health Group,Buffalo Medical Group,Helen Ewing,10/24/2041,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-18494,Patient-18494
+,New Generic Drug,HCSC Health Group,Buffalo Medical Group,Martin Hickman,9/2/2044,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-19434,Patient-19434
+,New Generic Drug,HCSC Health Group,Buffalo Medical Group,Monica Warren,10/14/2065,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-26709,Patient-26709
+,New Generic Drug,HCSC Health Group,Buffalo Medical Group,Rodney McConnell,12/24/2031,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-15980,Patient-15980
+,New Generic Drug,HCSC Health Group,Buffalo Medical Group,Vernon Santos,1/26/1993,male,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-17856,Patient-17856
+,New Generic Drug,HCSC Health Group,Buffalo Medical Group,Ellen Francis,4/7/1961,female,http://52.72.172.54:8080/fhir/baseDstu2/Patient/Patient-12707,Patient-12707
