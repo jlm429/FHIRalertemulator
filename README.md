@@ -51,11 +51,11 @@
 
   </body>
   
-<h1>
+<p>
 Oscar Ornelas: Application Architect and Co-Developer<br>
 John Mansfield: Back-end Developer<br>
 Anthony Passamonti: Front-end Developer<br>
 Phil Jones: Project Manager and QA<br>
-</h1>
+</p>
 </html>
 
