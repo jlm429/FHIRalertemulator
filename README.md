@@ -19,8 +19,8 @@
   
 <p>
 Oscar Ornelas: Application Architect and Co-Developer<br>
-John Mansfield: Back-end Developer<br>
-Anthony Passamonti: Front-end Developer<br>
+John Mansfield: Developer<br>
+Anthony Passamonti: Developer<br>
 Phil Jones: Project Manager and QA<br>
 </p>
 </html>
